@@ -1,0 +1,5949 @@
+[
+  {
+    "Dex": "001",
+    "Pokémon": "Bulbasaur",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Nasca Town, Route 14"
+  },
+  {
+    "Dex": "002",
+    "Pokémon": "Ivysaur",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "003",
+    "Pokémon": "Venusaur",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Narra Town"
+  },
+  {
+    "Dex": "004",
+    "Pokémon": "Charmander",
+    "Type": ["Fire"],
+    "FIELD5": "Route 3, Nasca Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "005",
+    "Pokémon": "Charmeleon",
+    "Type": ["Fire"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "006",
+    "Pokémon": "Charizard",
+    "Type": ["Fire", "Flying"],
+    "FIELD6": "Dragon Ruins, Victory Road, Holon Volcano, Route 17"
+  },
+  {
+    "Dex": "007",
+    "Pokémon": "Squirtle",
+    "Type": ["Water"],
+    "FIELD5": "Koril Town, Route 4, Nasca Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "008",
+    "Pokémon": "Wartortle",
+    "Type": ["Water"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "009",
+    "Pokémon": "Blastoise",
+    "Type": ["Water"],
+    "FIELD5": "Nexa Town, Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "010",
+    "Pokémon": "Caterpie",
+    "Type": ["Bug"],
+    "FIELD5": "Shade Forest, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "011",
+    "Pokémon": "Metapod",
+    "Type": ["Bug"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "012",
+    "Pokémon": "Butterfree",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Murk Forest, Void Gauntlet, Holon Marsh"
+  },
+  {
+    "Dex": "013",
+    "Pokémon": "Weedle",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Shade Forest, Friend Safari"
+  },
+  {
+    "Dex": "014",
+    "Pokémon": "Kakuna",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "015",
+    "Pokémon": "Beedrill",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Murk Forest, Void Gauntlet"
+  },
+  {
+    "Dex": "016",
+    "Pokémon": "Pidgey",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "017",
+    "Pokémon": "Pidgeotto",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "018",
+    "Pokémon": "Pidgeot",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Soaring"
+  },
+  {
+    "Dex": "019",
+    "Pokémon": "Rattata",
+    "Type": ["Normal"],
+    "FIELD5": "Void Gauntlet, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "020",
+    "Pokémon": "Raticate",
+    "Type": ["Normal"],
+    "FIELD5": "Route 9, Void Gauntlet",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "021",
+    "Pokémon": "Spearow",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "022",
+    "Pokémon": "Fearow",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Route 15, Route 4"
+  },
+  {
+    "Dex": "023",
+    "Pokémon": "Ekans",
+    "Type": ["Poison"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "024",
+    "Pokémon": "Arbok",
+    "Type": ["Poison"],
+    "FIELD5": "Slither Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "025",
+    "Pokémon": "Pikachu",
+    "Type": ["Electric"],
+    "FIELD5": "Shade Forest, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "026",
+    "Pokémon": "Raichu",
+    "Type": ["Electric"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "027",
+    "Pokémon": "Sandshrew",
+    "Type": ["Ground"],
+    "FIELD5": "Ancient Ruins, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "028",
+    "Pokémon": "Sandslash",
+    "Type": ["Ground"],
+    "FIELD5": "Safari Zone, Void Gauntlet",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "029",
+    "Pokémon": "Nidoran♀",
+    "Type": ["Poison"],
+    "FIELD5": "Shade Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "030",
+    "Pokémon": "Nidorina",
+    "Type": ["Poison"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "031",
+    "Pokémon": "Nidoqueen",
+    "Type": ["Poison", "Ground"],
+    "FIELD6": "Mount Rose, Friend Safari"
+  },
+  {
+    "Dex": "032",
+    "Pokémon": "Nidoran♂",
+    "Type": ["Poison"],
+    "FIELD5": "Shade Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "033",
+    "Pokémon": "Nidorino",
+    "Type": ["Poison"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "034",
+    "Pokémon": "Nidoking",
+    "Type": ["Poison", "Ground"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "035",
+    "Pokémon": "Clefairy",
+    "Type": ["Fairy"],
+    "FIELD5": "Torren Game Corner, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "036",
+    "Pokémon": "Clefable",
+    "Type": ["Fairy"],
+    "FIELD5": "Mount Rose, Cortisol Road, Holon Lake",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "037",
+    "Pokémon": "Vulpix",
+    "Type": ["Fire"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "038",
+    "Pokémon": "Ninetales",
+    "Type": ["Fire"],
+    "FIELD5": "Route 9, Cortisol Road, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "039",
+    "Pokémon": "Jigglypuff",
+    "Type": ["Normal", "Fairy"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "040",
+    "Pokémon": "Wigglytuff",
+    "Type": ["Normal", "Fairy"],
+    "FIELD6": "Route 8"
+  },
+  {
+    "Dex": "041",
+    "Pokémon": "Zubat",
+    "Type": ["Poison", "Flying"],
+    "FIELD6": "Dark Cave, Midna Mine, Void Gauntlet"
+  },
+  {
+    "Dex": "042",
+    "Pokémon": "Golbat",
+    "Type": ["Poison", "Flying"],
+    "FIELD6": "Dark Cave, Ancient Tower, Void Gauntlet, Friend Safari"
+  },
+  {
+    "Dex": "043",
+    "Pokémon": "Oddish",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "044",
+    "Pokémon": "Gloom",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "045",
+    "Pokémon": "Vileplume",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Murk Forest"
+  },
+  {
+    "Dex": "046",
+    "Pokémon": "Paras",
+    "Type": ["Bug", "Grass"],
+    "FIELD6": "Void Gauntlet, Friend Safari"
+  },
+  {
+    "Dex": "047",
+    "Pokémon": "Parasect",
+    "Type": ["Bug", "Grass"],
+    "FIELD6": "Route 13"
+  },
+  {
+    "Dex": "048",
+    "Pokémon": "Venonat",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "049",
+    "Pokémon": "Venomoth",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Murk Forest"
+  },
+  {
+    "Dex": "050",
+    "Pokémon": "Diglett",
+    "Type": ["Ground"],
+    "FIELD5": "Telnor Cave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "051",
+    "Pokémon": "Dugtrio",
+    "Type": ["Ground"],
+    "FIELD5": "Rezzai Cavern, Safari Zone, Fiery Caverns",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "052",
+    "Pokémon": "Meowth",
+    "Type": ["Normal"],
+    "FIELD5": "Route 1, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "053",
+    "Pokémon": "Persian",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "054",
+    "Pokémon": "Psyduck",
+    "Type": ["Water"],
+    "FIELD5": "Misty Way, Mist Island, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "055",
+    "Pokémon": "Golduck",
+    "Type": ["Water"],
+    "FIELD5": "Holon Lake, Gaea Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "056",
+    "Pokémon": "Mankey",
+    "Type": ["Fighting"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "057",
+    "Pokémon": "Primeape",
+    "Type": ["Fighting"],
+    "FIELD5": "Route 9",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "058",
+    "Pokémon": "Growlithe",
+    "Type": ["Fire"],
+    "FIELD5": "Crossroads, Void Gauntlet, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "059",
+    "Pokémon": "Arcanine",
+    "Type": ["Fire"],
+    "FIELD5": "Mount Rose",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "060",
+    "Pokémon": "Poliwag",
+    "Type": ["Water"],
+    "FIELD5": "Shade Forest, Midna Mine, Route 15, Route 16, Settlement Oscar, Holon Undercave, Route 17",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "061",
+    "Pokémon": "Poliwhirl",
+    "Type": ["Water"],
+    "FIELD5": "Route 4, Nexa Border, Nexa Town, Holon Undercave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "062",
+    "Pokémon": "Poliwrath",
+    "Type": ["Water", "Fighting"],
+    "FIELD6": "Mount Rose"
+  },
+  {
+    "Dex": "063",
+    "Pokémon": "Abra",
+    "Type": ["Psychic"],
+    "FIELD5": "Dark Cave, Route 4, Torren Game Corner, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "064",
+    "Pokémon": "Kadabra",
+    "Type": ["Psychic"],
+    "FIELD5": "Dark Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "065",
+    "Pokémon": "Alakazam",
+    "Type": ["Psychic"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "066",
+    "Pokémon": "Machop",
+    "Type": ["Fighting"],
+    "FIELD5": "Suntouched City",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "067",
+    "Pokémon": "Machoke",
+    "Type": ["Fighting"],
+    "FIELD5": "Miara Town, Samsara Cave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "068",
+    "Pokémon": "Machamp",
+    "Type": ["Fighting"],
+    "FIELD5": "Victory Road, Holon Desert",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "069",
+    "Pokémon": "Bellsprout",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "070",
+    "Pokémon": "Weepinbell",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Crossroads, Friend Safari"
+  },
+  {
+    "Dex": "071",
+    "Pokémon": "Victreebel",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "072",
+    "Pokémon": "Tentacool",
+    "Type": ["Water", "Poison"],
+    "FIELD6": "Midna Garden, Ancient Ruins, Metchi Town, Route 3, Crystal Caves, Mt. Rose Base, Mount Rose, Mount Rose (int.), Holon Grasslands, Friend Safari"
+  },
+  {
+    "Dex": "073",
+    "Pokémon": "Tentacruel",
+    "Type": ["Water", "Poison"],
+    "FIELD6": "Koril Town, Cave of Steam, Miara Town, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Holon Marsh, Holon Lake, Holon Mountain, Mountainous Cave"
+  },
+  {
+    "Dex": "074",
+    "Pokémon": "Geodude",
+    "Type": ["Rock", "Ground"],
+    "FIELD6": "Telnor Cave, Dark Cave, Midna Mine, Ancient Ruins, Cyan Cavern, Cave of Steam, Whirl Islands"
+  },
+  {
+    "Dex": "075",
+    "Pokémon": "Graveler",
+    "Type": ["Rock", "Ground"],
+    "FIELD6": "Dark Cave, Samsara Cave, Rezzai Cavern, Friend Safari, Void Gauntlet"
+  },
+  {
+    "Dex": "076",
+    "Pokémon": "Golem",
+    "Type": ["Rock", "Ground"],
+    "FIELD6": "Whirl Islands, Mount Rose (int.), Holon Pyramid, Holon Undercave, Mountainous Cave"
+  },
+  {
+    "Dex": "077",
+    "Pokémon": "Ponyta",
+    "Type": ["Fire"],
+    "FIELD5": "Route 1, Route 4, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "078",
+    "Pokémon": "Rapidash",
+    "Type": ["Fire"],
+    "FIELD5": "Route 8",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "079",
+    "Pokémon": "Slowpoke",
+    "Type": ["Water", "Psychic"],
+    "FIELD6": "Crossroads, Nexa Border, Nexa Town, Friend Safari"
+  },
+  {
+    "Dex": "080",
+    "Pokémon": "Slowbro",
+    "Type": ["Water", "Psychic"],
+    "FIELD6": "Mt. Rose Base, Mount Rose, Mount Rose (int.), Void Gauntlet, Victory Road, Holon Grasslands Route 17, Gaea Town"
+  },
+  {
+    "Dex": "081",
+    "Pokémon": "Magnemite",
+    "Type": ["Electric", "Steel"],
+    "FIELD6": "Cyan Cavern, Suntouched Exitway, Friend Safari"
+  },
+  {
+    "Dex": "082",
+    "Pokémon": "Magneton",
+    "Type": ["Electric", "Steel"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "083",
+    "Pokémon": "Farfetch'd",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Route 6, Friend Safari"
+  },
+  {
+    "Dex": "084",
+    "Pokémon": "Doduo",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Route 4, Friend Safari"
+  },
+  {
+    "Dex": "085",
+    "Pokémon": "Dodrio",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Holon Marsh"
+  },
+  {
+    "Dex": "086",
+    "Pokémon": "Seel",
+    "Type": ["Water"],
+    "FIELD5": "Midna Mine, Holon Undercave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "087",
+    "Pokémon": "Dewgong",
+    "Type": ["Water", "Ice"],
+    "FIELD6": "Route 3, Metchi Town, Route 6, Route 7, Oranos Town, Mt. Rose Base, Mount Rose, Mount Rose (int.), Deyraan Town, Holon Grasslands, Settlement Oscar, Holon Mountain, Route 17"
+  },
+  {
+    "Dex": "088",
+    "Pokémon": "Grimer",
+    "Type": ["Poison"],
+    "FIELD5": "Vipik Dump, Helios Sewers, Void Gauntlet",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "089",
+    "Pokémon": "Muk",
+    "Type": ["Poison"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "090",
+    "Pokémon": "Shellder",
+    "Type": ["Water"],
+    "FIELD5": "Midna Garden, Suntouched Exitway, Route 4, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "091",
+    "Pokémon": "Cloyster",
+    "Type": ["Water", "Ice"],
+    "FIELD6": "Midna Garden, Suntouched Exitway, Koril Town, Maelstrom 9, Nasca Town"
+  },
+  {
+    "Dex": "092",
+    "Pokémon": "Gastly",
+    "Type": ["Ghost", "Poison"],
+    "FIELD6": "Shade Forest, Midna Town, Void Gauntlet"
+  },
+  {
+    "Dex": "093",
+    "Pokémon": "Haunter",
+    "Type": ["Ghost", "Poison"],
+    "FIELD6": "Miara Town, Hekate Town, Void Gauntlet, Friend Safari"
+  },
+  {
+    "Dex": "094",
+    "Pokémon": "Gengar",
+    "Type": ["Ghost", "Poison"],
+    "FIELD6": "Utira Library, REM Ocean, Holon Pyramid, Nightmare Badlands, Rem Village"
+  },
+  {
+    "Dex": "095",
+    "Pokémon": "Onix",
+    "Type": ["Rock", "Ground"],
+    "FIELD6": "Telnor Cave, Cyan Cavern, Suntouched Exitway, Rezzai Cavern, Friend Safari"
+  },
+  {
+    "Dex": "096",
+    "Pokémon": "Drowzee",
+    "Type": ["Psychic"],
+    "FIELD5": "Cortisol Road, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "097",
+    "Pokémon": "Hypno",
+    "Type": ["Psychic"],
+    "FIELD5": "REM Ocean",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "098",
+    "Pokémon": "Krabby",
+    "Type": ["Water"],
+    "FIELD5": "Dark Cave, Route 2, Suntouched City, Route 3, Metchi Town, Route 4, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "099",
+    "Pokémon": "Kingler",
+    "Type": ["Water"],
+    "FIELD5": "Dark Cave, Koril Town, Whirl Islands, Safari Zone, Amphitrite City, Crystal Caves, Mt. Rose Base, Mount Rose, Mount Rose (int.), Deyraan Cave, Route 16, Narra Town, Narra Border, Nexa Town, Victory Road, Holon Grasslands, Settlement Oscar, Holon Undercave, Mountainous Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "010",
+    "Pokémon": "Voltorb",
+    "Type": ["Electric"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "011",
+    "Pokémon": "Electrode",
+    "Type": ["Electric"],
+    "FIELD5": "Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "012",
+    "Pokémon": "Exeggcute",
+    "Type": ["Grass", "Psychic"],
+    "FIELD6": "Midna Garden, Friend Safari"
+  },
+  {
+    "Dex": "013",
+    "Pokémon": "Exeggutor",
+    "Type": ["Grass", "Psychic"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "014",
+    "Pokémon": "Cubone",
+    "Type": ["Ground"],
+    "FIELD5": "Telnor Cave, Void Gauntlet, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "015",
+    "Pokémon": "Marowak",
+    "Type": ["Ground"],
+    "FIELD5": "Samsara Cave, Rezzai Cavern, Cave of Steam, Safari Zone, Holon Desert, Holon Undercave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "016",
+    "Pokémon": "Hitmonlee",
+    "Type": ["Fighting"],
+    "FIELD5": "Koril Cave, Route 12",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "017",
+    "Pokémon": "Hitmonchan",
+    "Type": ["Fighting"],
+    "FIELD5": "Koril Cave, Route 12",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "018",
+    "Pokémon": "Lickitung",
+    "Type": ["Normal"],
+    "FIELD5": "Route 16, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "019",
+    "Pokémon": "Koffing",
+    "Type": ["Poison"],
+    "FIELD5": "Helios Sewers, Void Gauntlet, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "110",
+    "Pokémon": "Weezing",
+    "Type": ["Poison"],
+    "FIELD5": "Void Gauntlet",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "111",
+    "Pokémon": "Rhyhorn",
+    "Type": ["Ground", "Rock"],
+    "FIELD6": "Cave of Steam"
+  },
+  {
+    "Dex": "112",
+    "Pokémon": "Rhydon",
+    "Type": ["Ground", "Rock"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "113",
+    "Pokémon": "Chansey",
+    "Type": ["Normal"],
+    "FIELD5": "Route 8, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "114",
+    "Pokémon": "Tangela",
+    "Type": ["Grass"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "115",
+    "Pokémon": "Kangaskhan",
+    "Type": ["Normal"],
+    "FIELD5": "Route 8, Narra Town, Nexa Border, Settlement Oscar, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "116",
+    "Pokémon": "Horsea",
+    "Type": ["Water"],
+    "FIELD5": "Route 14, Oranos Town, Route 16, Nexa Town, Misty Way, Mist Island, Route 17",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "117",
+    "Pokémon": "Seadra",
+    "Type": ["Water"],
+    "FIELD5": "Route 5, Oranos Town, Amphitrite City, Deyraan Cave, Holon Undercave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "118",
+    "Pokémon": "Goldeen",
+    "Type": ["Water"],
+    "FIELD5": "Midna Mine, Crystal Caves, Nexa Town, Nexa Border, Victory Road, Settlement Oscar, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "119",
+    "Pokémon": "Seaking",
+    "Type": ["Water"],
+    "FIELD5": "Midna Mine, Route 6, Route 7, Maelstrom 9, Route 14, Route 15, Holon Mountain, Mountainous Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "120",
+    "Pokémon": "Staryu",
+    "Type": ["Water"],
+    "FIELD5": "Route 2, Route 3, Metchi Town, Route 4, Route 15, Crystal Caves, Holon Undercave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "121",
+    "Pokémon": "Starmie",
+    "Type": ["Water", "Psychic"],
+    "FIELD6": "Koril Town, Cave of Steam, Crystal Caves, Mount Rose (int.), Deyraan Cave, Holon Lake"
+  },
+  {
+    "Dex": "122",
+    "Pokémon": "Mr. Mime",
+    "Type": ["Psychic", "Fairy"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "123",
+    "Pokémon": "Scyther",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Torren Game Corner, Route 11, Friend Safari"
+  },
+  {
+    "Dex": "124",
+    "Pokémon": "Jynx",
+    "Type": ["Ice", "Psychic"],
+    "FIELD6": "Victory Road, No Man's Land, Friend Safari"
+  },
+  {
+    "Dex": "125",
+    "Pokémon": "Electabuzz",
+    "Type": ["Electric"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "126",
+    "Pokémon": "Magmar",
+    "Type": ["Fire"],
+    "FIELD5": "Fiery Caverns, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "127",
+    "Pokémon": "Pinsir",
+    "Type": ["Bug"],
+    "FIELD5": "Torren Game Corner, Narra Town, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "128",
+    "Pokémon": "Tauros",
+    "Type": ["Normal"],
+    "FIELD5": "Route 17, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "129",
+    "Pokémon": "Magikarp",
+    "Type": ["Water"],
+    "FIELD5": "Shade Forest, Telnor Cave, Route 1, Midna Garden, Ancient Ruins, Cyan Cavern, Suntouched Exitway, Koril Town, Route 6, Route 7, Cave of Steam, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Dragon Ruins, Oranos Town, Holon Volcano, REM Ocean, Nightmare Badlands, Rem Village, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "130",
+    "Pokémon": "Gyarados",
+    "Type": ["Water", "Flying"],
+    "FIELD6": "Shade Forest, Telnor Cave, Route 1, Midna Garden, Ancient Ruins, Cyan Cavern, Suntouched Exitway, Samsara Cave, Rezzai Cavern, Cave of Steam, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Dragon Ruins, Route 13, Oranos Town, Route 15, Crystal Caves, Misty Way, Mist Island"
+  },
+  {
+    "Dex": "131",
+    "Pokémon": "Lapras",
+    "Type": ["Water", "Ice"],
+    "FIELD6": "Route 6, Route 7, Cave of Steam, Crystal Caves, Deyraan Cave, Holon Mountain, Mountainous Cave, Friend Safari"
+  },
+  {
+    "Dex": "132",
+    "Pokémon": "Ditto",
+    "Type": ["Normal"],
+    "FIELD5": "Crossroads, Holon Lake, No Man's Land, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "133",
+    "Pokémon": "Eevee",
+    "Type": ["Normal"],
+    "FIELD5": "Starter Pokémon, Torren Game Corner, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "134",
+    "Pokémon": "Vaporeon",
+    "Type": ["Water"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "135",
+    "Pokémon": "Jolteon",
+    "Type": ["Electric"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "136",
+    "Pokémon": "Flareon",
+    "Type": ["Fire"],
+    "FIELD5": "Safari Zone, Rose Crater",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "137",
+    "Pokémon": "Porygon",
+    "Type": ["Normal"],
+    "FIELD5": "Torren Game Corner, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "138",
+    "Pokémon": "Omanyte",
+    "Type": ["Rock", "Water"],
+    "FIELD6": "Helix Fossil, Science Mission 1, Friend Safari"
+  },
+  {
+    "Dex": "139",
+    "Pokémon": "Omastar",
+    "Type": ["Rock", "Water"],
+    "FIELD6": "Safari Zone, Narra Border"
+  },
+  {
+    "Dex": "140",
+    "Pokémon": "Kabuto",
+    "Type": ["Rock", "Water"],
+    "FIELD6": "Dome Fossil, Friend Safari"
+  },
+  {
+    "Dex": "141",
+    "Pokémon": "Kabutops",
+    "Type": ["Rock", "Water"],
+    "FIELD6": "Science Mission 1, Koril Cave, Narra Border, Mountainous Cave"
+  },
+  {
+    "Dex": "142",
+    "Pokémon": "Aerodactyl",
+    "Type": ["Rock", "Flying"],
+    "FIELD6": "Old Amber, Friend Safari"
+  },
+  {
+    "Dex": "143",
+    "Pokémon": "Snorlax",
+    "Type": ["Normal"],
+    "FIELD5": "Route 8",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "144",
+    "Pokémon": "Articuno",
+    "Type": ["Ice", "Flying"],
+    "FIELD6": "No Man's Land"
+  },
+  {
+    "Dex": "145",
+    "Pokémon": "Zapdos",
+    "Type": ["Electric", "Flying"],
+    "FIELD6": "Suntouched City"
+  },
+  {
+    "Dex": "146",
+    "Pokémon": "Moltres",
+    "Type": ["Fire", "Flying"],
+    "FIELD6": "Void Gauntlet"
+  },
+  {
+    "Dex": "147",
+    "Pokémon": "Dratini",
+    "Type": ["Dragon"],
+    "FIELD5": "Midna Garden, Suntouched Exitway, Oranos Town, Amphitrite City, Route 17, Gaea Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "148",
+    "Pokémon": "Dragonair",
+    "Type": ["Dragon"],
+    "FIELD5": "Route 5, Oranos Town, Deyraan Cave, Holon Lake, Holon Undercave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "149",
+    "Pokémon": "Dragonite",
+    "Type": ["Dragon", "Flying"],
+    "FIELD6": "Victory Road, Soaring"
+  },
+  {
+    "Dex": "150",
+    "Pokémon": "Mewtwo",
+    "Type": ["Psychic"],
+    "FIELD5": "Perfection Base, Battle Frontier (Shadow forme)",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "151",
+    "Pokémon": "Mew",
+    "Type": ["Psychic"],
+    "FIELD5": "Crystal Caves",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "152",
+    "Pokémon": "Chikorita",
+    "Type": ["Grass"],
+    "FIELD5": "Torren Game Corner",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "153",
+    "Pokémon": "Bayleef",
+    "Type": ["Grass"],
+    "FIELD5": "Holon Jungle, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "154",
+    "Pokémon": "Meganium",
+    "Type": ["Grass"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "155",
+    "Pokémon": "Cyndaquil",
+    "Type": ["Fire"],
+    "FIELD5": "Route 4, Sonata City",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "156",
+    "Pokémon": "Quilava",
+    "Type": ["Fire"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "157",
+    "Pokémon": "Typhlosion",
+    "Type": ["Fire"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "158",
+    "Pokémon": "Totodile",
+    "Type": ["Water"],
+    "FIELD5": "Route 2",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "159",
+    "Pokémon": "Croconaw",
+    "Type": ["Water"],
+    "FIELD5": "Route 5, Cave of Steam, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "160",
+    "Pokémon": "Feraligatr",
+    "Type": ["Water"],
+    "FIELD5": "Safari Zone, Dragon Ruins",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "161",
+    "Pokémon": "Sentret",
+    "Type": ["Normal"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "162",
+    "Pokémon": "Furret",
+    "Type": ["Normal"],
+    "FIELD5": "Route 16, Narra Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "163",
+    "Pokémon": "Hoothoot",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Void Gauntlet, Friend Safari"
+  },
+  {
+    "Dex": "164",
+    "Pokémon": "Noctowl",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Holon Mountain"
+  },
+  {
+    "Dex": "165",
+    "Pokémon": "Ledyba",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Void Gauntlet, Friend Safari"
+  },
+  {
+    "Dex": "166",
+    "Pokémon": "Ledian",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Narra Town"
+  },
+  {
+    "Dex": "167",
+    "Pokémon": "Spinarak",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "168",
+    "Pokémon": "Ariados",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Murk Forest"
+  },
+  {
+    "Dex": "169",
+    "Pokémon": "Crobat",
+    "Type": ["Poison", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "170",
+    "Pokémon": "Chinchou",
+    "Type": ["Water", "Electric"],
+    "FIELD6": "Route 4, Safari Zone, Dragon Ruins, Deyraan Cave, Holon Mountain, Mountainous Cave, Friend Safari"
+  },
+  {
+    "Dex": "171",
+    "Pokémon": "Lanturn",
+    "Type": ["Water", "Electric"],
+    "FIELD6": "Route 5, Koril Town, Koril Cave, Route 6, Route 7, Cave of Steam, Route 8, Miara Town, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Dragon Ruins, Route 14, Holon Grasslands, Holon Lake, Holon Undercave, Holon Mountain, Mountainous Cave"
+  },
+  {
+    "Dex": "172",
+    "Pokémon": "Pichu",
+    "Type": ["Electric"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "173",
+    "Pokémon": "Cleffa",
+    "Type": ["Fairy"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "174",
+    "Pokémon": "Igglybuff",
+    "Type": ["Normal", "Fairy"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "175",
+    "Pokémon": "Togepi",
+    "Type": ["Fairy"],
+    "FIELD5": "Vipik City",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "176",
+    "Pokémon": "Togetic",
+    "Type": ["Fairy", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "177",
+    "Pokémon": "Natu",
+    "Type": ["Psychic", "Flying"],
+    "FIELD6": "Suntouched City, Friend Safari"
+  },
+  {
+    "Dex": "178",
+    "Pokémon": "Xatu",
+    "Type": ["Psychic", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "179",
+    "Pokémon": "Mareep",
+    "Type": ["Electric"],
+    "FIELD5": "Torren Game Corner",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "180",
+    "Pokémon": "Flaaffy",
+    "Type": ["Electric"],
+    "FIELD5": "Route 13, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "181",
+    "Pokémon": "Ampharos",
+    "Type": ["Electric"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "182",
+    "Pokémon": "Bellossom",
+    "Type": ["Grass"],
+    "FIELD5": "Route 13",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "183",
+    "Pokémon": "Marill",
+    "Type": ["Water", "Fairy"],
+    "FIELD6": "Route 2, Metchi Town, Friend Safari"
+  },
+  {
+    "Dex": "184",
+    "Pokémon": "Azumarill",
+    "Type": ["Water", "Fairy"],
+    "FIELD6": "Route 10, Route 16, Narra Town, Nexa Town, Victory Road"
+  },
+  {
+    "Dex": "185",
+    "Pokémon": "Sudowoodo",
+    "Type": ["Rock"],
+    "FIELD5": "Route 3, Nasca Town, Nasca Cave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "186",
+    "Pokémon": "Politoed",
+    "Type": ["Water"],
+    "FIELD5": "Route 10, Mt. Rose Base, Mount Rose, Holon Marsh",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "187",
+    "Pokémon": "Hoppip",
+    "Type": ["Grass", "Flying"],
+    "FIELD6": "Route 1, Route 4, Friend Safari"
+  },
+  {
+    "Dex": "188",
+    "Pokémon": "Skiploom",
+    "Type": ["Grass", "Flying"],
+    "FIELD6": "Route 4, Soaring"
+  },
+  {
+    "Dex": "189",
+    "Pokémon": "Jumpluff",
+    "Type": ["Grass", "Flying"],
+    "FIELD6": "Mysterious Hideaway"
+  },
+  {
+    "Dex": "190",
+    "Pokémon": "Aipom",
+    "Type": ["Normal"],
+    "FIELD5": "Holon Jungle, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "191",
+    "Pokémon": "Sunkern",
+    "Type": ["Grass"],
+    "FIELD5": "Miara Town, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "192",
+    "Pokémon": "Sunflora",
+    "Type": ["Grass"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "193",
+    "Pokémon": "Yanma",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "194",
+    "Pokémon": "Wooper",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Telnor Cave, Cyan Cavern, Friend Safari"
+  },
+  {
+    "Dex": "195",
+    "Pokémon": "Quagsire",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Misty Way, Samsara Cave, Rezzai Cavern, Stormy Seas, Mount Rose (int.), Deyraan Cave, Holon Undercave"
+  },
+  {
+    "Dex": "196",
+    "Pokémon": "Espeon",
+    "Type": ["Psychic"],
+    "FIELD5": "Holon Pyramid",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "197",
+    "Pokémon": "Umbreon",
+    "Type": ["Dark"],
+    "FIELD5": "Holon Pyramid",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "198",
+    "Pokémon": "Murkrow",
+    "Type": ["Dark", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "199",
+    "Pokémon": "Slowking",
+    "Type": ["Water", "Psychic"],
+    "FIELD6": "Crystal Caves"
+  },
+  {
+    "Dex": "020",
+    "Pokémon": "Misdreavus",
+    "Type": ["Ghost"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "021",
+    "Pokémon": "Unown",
+    "Type": ["Psychic"],
+    "FIELD5": "Holon Pyramid, Gaea Core, Alpha Temple, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "022",
+    "Pokémon": "Wobbuffet",
+    "Type": ["Psychic"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "023",
+    "Pokémon": "Girafarig",
+    "Type": ["Normal", "Psychic"],
+    "FIELD6": "Safari Zone, Misty Way, Friend Safari"
+  },
+  {
+    "Dex": "024",
+    "Pokémon": "Pineco",
+    "Type": ["Bug"],
+    "FIELD5": "Void Gauntlet, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "025",
+    "Pokémon": "Forretress",
+    "Type": ["Bug", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "026",
+    "Pokémon": "Dunsparce",
+    "Type": ["Normal"],
+    "FIELD5": "Crossroads, Mount Rose, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "027",
+    "Pokémon": "Gligar",
+    "Type": ["Ground", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "028",
+    "Pokémon": "Steelix",
+    "Type": ["Steel", "Ground"],
+    "FIELD6": "Mount Rose (int.), Void Gauntlet"
+  },
+  {
+    "Dex": "029",
+    "Pokémon": "Snubbull",
+    "Type": ["Fairy"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "210",
+    "Pokémon": "Granbull",
+    "Type": ["Fairy"],
+    "FIELD5": "Mt. Rose Base, Mount Rose",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "211",
+    "Pokémon": "Qwilfish",
+    "Type": ["Water", "Poison"],
+    "FIELD6": "Telnor Cave, Dark Cave, Route 4, Crossroads, Koril Town, Koril Cave, Samsara Cave, Rezzai Cavern, Route 6, Route 7, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Dragon Ruins, Deyraan Cave, Gaea Town, Friend Safari"
+  },
+  {
+    "Dex": "212",
+    "Pokémon": "Scizor",
+    "Type": ["Bug", "Steel"],
+    "FIELD6": "Mount Rose, Friend Safari"
+  },
+  {
+    "Dex": "213",
+    "Pokémon": "Shuckle",
+    "Type": ["Bug", "Rock"],
+    "FIELD6": "Midna Mine, Cyan Cavern, Suntouched Exitway, Cave of Steam, Nasca Town, Nasca Cave, Route 15, Friend Safari"
+  },
+  {
+    "Dex": "214",
+    "Pokémon": "Heracross",
+    "Type": ["Bug", "Fighting"],
+    "FIELD6": "Torren Game Corner, Mt. Rose Base, Mount Rose, Narra Town, Friend Safari"
+  },
+  {
+    "Dex": "215",
+    "Pokémon": "Sneasel",
+    "Type": ["Dark", "Ice"],
+    "FIELD6": "Vipik City, Friend Safari"
+  },
+  {
+    "Dex": "216",
+    "Pokémon": "Teddiursa",
+    "Type": ["Normal"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "217",
+    "Pokémon": "Ursaring",
+    "Type": ["Normal"],
+    "FIELD5": "Mount Rose (int.)",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "218",
+    "Pokémon": "Slugma",
+    "Type": ["Fire"],
+    "FIELD5": "Cave of Steam, Utira Town, Miara Town, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "219",
+    "Pokémon": "Magcargo",
+    "Type": ["Fire", "Rock"],
+    "FIELD6": "Cave of Steam, Fiery Caverns, Rose Crater, Infernal Dungeon, Upper Mantle, Deep Mantle"
+  },
+  {
+    "Dex": "220",
+    "Pokémon": "Swinub",
+    "Type": ["Ice", "Ground"],
+    "FIELD6": "Breeding Only"
+  },
+  {
+    "Dex": "221",
+    "Pokémon": "Piloswine",
+    "Type": ["Ice", "Ground"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "222",
+    "Pokémon": "Corsola",
+    "Type": ["Water", "Rock"],
+    "FIELD6": "Midna Town, Route 2, Suntouched City, Route 4, Koril Town, Utira Town, Route 8, Miara Town, Safari Zone, Dragon Ruins, Oranos Town, Route 15, Crystal Caves,  Mt. Rose Base, Narra Town, Narra Border, Friend Safari"
+  },
+  {
+    "Dex": "223",
+    "Pokémon": "Remoraid",
+    "Type": ["Water"],
+    "FIELD5": "Shade Forest, Route 2, Ancient Ruins, Suntouched City, Cave of Steam, Utira Town, Route 8, Miara Town, Crystal Caves, Route 16, Victory Road, Holon Marsh, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "224",
+    "Pokémon": "Octillery",
+    "Type": ["Water"],
+    "FIELD5": "Shade Forest, Route 2, Suntouched City, Cave of Steam, Utira Town, Miara Town, Route 8, Route 14, Route 15, Amphitrite City, Mt. Rose Base, Victory Road, Holon Grasslands, Settlement Oscar",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "225",
+    "Pokémon": "Delibird",
+    "Type": ["Ice", "Flying"],
+    "FIELD6": "Safari Zone, Friend Safari"
+  },
+  {
+    "Dex": "226",
+    "Pokémon": "Mantine",
+    "Type": ["Water", "Flying"],
+    "FIELD6": "Route 3, Miara Town, Route 16, Holon Lake"
+  },
+  {
+    "Dex": "227",
+    "Pokémon": "Skarmory",
+    "Type": ["Steel", "Flying"],
+    "FIELD6": "Soaring, Friend Safari"
+  },
+  {
+    "Dex": "228",
+    "Pokémon": "Houndour",
+    "Type": ["Dark", "Fire"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "229",
+    "Pokémon": "Houndoom",
+    "Type": ["Dark", "Fire"],
+    "FIELD6": "Route 8, Rose Crater, Infernal Dungeon, Upper Mantle, Deep Mantle"
+  },
+  {
+    "Dex": "230",
+    "Pokémon": "Kingdra",
+    "Type": ["Water", "Dragon"],
+    "FIELD6": "Maelstrom 9, Nasca Town, Safari Zone"
+  },
+  {
+    "Dex": "231",
+    "Pokémon": "Phanpy",
+    "Type": ["Ground"],
+    "FIELD5": "Midna Mine, Route 10, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "232",
+    "Pokémon": "Donphan",
+    "Type": ["Ground"],
+    "FIELD5": "Safari Zone, Void Gauntlet",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "233",
+    "Pokémon": "Porygon2",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "234",
+    "Pokémon": "Stantler",
+    "Type": ["Normal"],
+    "FIELD5": "Mt. Rose Base, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "235",
+    "Pokémon": "Smeargle",
+    "Type": ["Normal"],
+    "FIELD5": "Helios City, Gaea Core, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "236",
+    "Pokémon": "Tyrogue",
+    "Type": ["Fighting"],
+    "FIELD5": "Ancient Ruins, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "237",
+    "Pokémon": "Hitmontop",
+    "Type": ["Fighting"],
+    "FIELD5": "Koril Cave, Route 12",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "238",
+    "Pokémon": "Smoochum",
+    "Type": ["Ice", "Psychic"],
+    "FIELD6": "Torren Game Corner"
+  },
+  {
+    "Dex": "239",
+    "Pokémon": "Elekid",
+    "Type": ["Electric"],
+    "FIELD5": "Midna Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "240",
+    "Pokémon": "Magby",
+    "Type": ["Fire"],
+    "FIELD5": "Erebus City",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "241",
+    "Pokémon": "Miltank",
+    "Type": ["Normal"],
+    "FIELD5": "Route 11, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "242",
+    "Pokémon": "Blissey",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "243",
+    "Pokémon": "Raikou",
+    "Type": ["Electric"],
+    "FIELD5": "Roaming encounter after subjugating Arceus",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "244",
+    "Pokémon": "Entei",
+    "Type": ["Fire"],
+    "FIELD5": "Roaming encounter after subjugating Arceus",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "245",
+    "Pokémon": "Suicune",
+    "Type": ["Water"],
+    "FIELD5": "Roaming encounter after subjugating Arceus",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "246",
+    "Pokémon": "Larvitar",
+    "Type": ["Rock", "Ground"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "247",
+    "Pokémon": "Pupitar",
+    "Type": ["Rock", "Ground"],
+    "FIELD6": "Samsara Cave, Selene City, Friend Safari, Void Gauntlet"
+  },
+  {
+    "Dex": "248",
+    "Pokémon": "Tyranitar",
+    "Type": ["Rock", "Dark"],
+    "FIELD6": "Victory Road, Holon Volcano"
+  },
+  {
+    "Dex": "249",
+    "Pokémon": "Lugia",
+    "Type": ["Psychic", "Flying"],
+    "FIELD6": "Whirl Islands"
+  },
+  {
+    "Dex": "250",
+    "Pokémon": "Ho-Oh",
+    "Type": ["Fire", "Flying"],
+    "FIELD6": "Ancient Tower"
+  },
+  {
+    "Dex": "251",
+    "Pokémon": "Celebi",
+    "Type": ["Psychic", "Grass"],
+    "FIELD6": "Gaea Town"
+  },
+  {
+    "Dex": "252",
+    "Pokémon": "Treecko",
+    "Type": ["Grass"],
+    "FIELD5": "Route 9",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "253",
+    "Pokémon": "Grovyle",
+    "Type": ["Grass"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "254",
+    "Pokémon": "Sceptile",
+    "Type": ["Grass"],
+    "FIELD5": "Route 11, Safari Zone, Dragon Ruins, Mt. Rose Base, Holon Grasslands",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "255",
+    "Pokémon": "Torchic",
+    "Type": ["Fire"],
+    "FIELD5": "Rose Crater",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "256",
+    "Pokémon": "Combusken",
+    "Type": ["Fire", "Fighting"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "257",
+    "Pokémon": "Blaziken",
+    "Type": ["Fire", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "258",
+    "Pokémon": "Mudkip",
+    "Type": ["Water"],
+    "FIELD5": "Route 4, Route 9",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "259",
+    "Pokémon": "Marshtomp",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "260",
+    "Pokémon": "Swampert",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Cave of Steam, Narra Border, Nexa Border, Holon Undercave"
+  },
+  {
+    "Dex": "261",
+    "Pokémon": "Poochyena",
+    "Type": ["Dark"],
+    "FIELD5": "Dark Cave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "262",
+    "Pokémon": "Mightyena",
+    "Type": ["Dark"],
+    "FIELD5": "Dark Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "263",
+    "Pokémon": "Zigzagoon",
+    "Type": ["Normal"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "264",
+    "Pokémon": "Linoone",
+    "Type": ["Normal"],
+    "FIELD5": "Route 13",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "265",
+    "Pokémon": "Wurmple",
+    "Type": ["Bug"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "266",
+    "Pokémon": "Silcoon",
+    "Type": ["Bug"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "267",
+    "Pokémon": "Beautifly",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "268",
+    "Pokémon": "Cascoon",
+    "Type": ["Bug"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "269",
+    "Pokémon": "Dustox",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Route 13"
+  },
+  {
+    "Dex": "270",
+    "Pokémon": "Lotad",
+    "Type": ["Water", "Grass"],
+    "FIELD6": "Route 1, Friend Safari"
+  },
+  {
+    "Dex": "271",
+    "Pokémon": "Lombre",
+    "Type": ["Water", "Grass"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "272",
+    "Pokémon": "Ludicolo",
+    "Type": ["Water", "Grass"],
+    "FIELD6": "Nexa Town, Victory Road, Holon Lake"
+  },
+  {
+    "Dex": "273",
+    "Pokémon": "Seedot",
+    "Type": ["Grass"],
+    "FIELD5": "Route 3",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "274",
+    "Pokémon": "Nuzleaf",
+    "Type": ["Grass", "Dark"],
+    "FIELD6": "Route 3, Friend Safari"
+  },
+  {
+    "Dex": "275",
+    "Pokémon": "Shiftry",
+    "Type": ["Grass", "Dark"],
+    "FIELD6": "Holon Mountain"
+  },
+  {
+    "Dex": "276",
+    "Pokémon": "Taillow",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "277",
+    "Pokémon": "Swellow",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Soaring"
+  },
+  {
+    "Dex": "278",
+    "Pokémon": "Wingull",
+    "Type": ["Water", "Flying"],
+    "FIELD6": "Route 4, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Friend Safari"
+  },
+  {
+    "Dex": "279",
+    "Pokémon": "Pelipper",
+    "Type": ["Water", "Flying"],
+    "FIELD6": "Mount Rose, Soaring"
+  },
+  {
+    "Dex": "280",
+    "Pokémon": "Ralts",
+    "Type": ["Psychic", "Fairy"],
+    "FIELD6": "Route 3"
+  },
+  {
+    "Dex": "281",
+    "Pokémon": "Kirlia",
+    "Type": ["Psychic", "Fairy"],
+    "FIELD6": "Route 3, Friend Safari"
+  },
+  {
+    "Dex": "282",
+    "Pokémon": "Gardevoir",
+    "Type": ["Psychic", "Fairy"],
+    "FIELD6": "Nexa Border"
+  },
+  {
+    "Dex": "283",
+    "Pokémon": "Surskit",
+    "Type": ["Bug", "Water"],
+    "FIELD6": "Midna Garden, Friend Safari"
+  },
+  {
+    "Dex": "284",
+    "Pokémon": "Masquerain",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "285",
+    "Pokémon": "Shroomish",
+    "Type": ["Grass"],
+    "FIELD5": "Void Gauntlet, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "286",
+    "Pokémon": "Breloom",
+    "Type": ["Grass", "Fighting"],
+    "FIELD6": "Route 10"
+  },
+  {
+    "Dex": "287",
+    "Pokémon": "Slakoth",
+    "Type": ["Normal"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "288",
+    "Pokémon": "Vigoroth",
+    "Type": ["Normal"],
+    "FIELD5": "Route 12, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "289",
+    "Pokémon": "Slaking",
+    "Type": ["Normal"],
+    "FIELD5": "Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "290",
+    "Pokémon": "Nincada",
+    "Type": ["Bug", "Ground"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "291",
+    "Pokémon": "Ninjask",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Mt. Rose Base, Mount Rose"
+  },
+  {
+    "Dex": "292",
+    "Pokémon": "Shedinja",
+    "Type": ["Bug", "Ghost"],
+    "FIELD6": "Mt. Rose Base, Mount Rose, Friend Safari"
+  },
+  {
+    "Dex": "293",
+    "Pokémon": "Whismur",
+    "Type": ["Normal"],
+    "FIELD5": "Cyan Cavern, Suntouched Exitway",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "294",
+    "Pokémon": "Loudred",
+    "Type": ["Normal"],
+    "FIELD5": "Route 9, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "295",
+    "Pokémon": "Exploud",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "296",
+    "Pokémon": "Makuhita",
+    "Type": ["Fighting"],
+    "FIELD5": "Cyan Cavern, Suntouched Exitway, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "297",
+    "Pokémon": "Hariyama",
+    "Type": ["Fighting"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "298",
+    "Pokémon": "Azurill",
+    "Type": ["Normal", "Fairy"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "299",
+    "Pokémon": "Nosepass",
+    "Type": ["Rock"],
+    "FIELD5": "Telnor Cave, Midna Mine, Rezzai Cavern, Cave of Steam, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "030",
+    "Pokémon": "Skitty",
+    "Type": ["Normal"],
+    "FIELD5": "Route 7, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "031",
+    "Pokémon": "Delcatty",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "032",
+    "Pokémon": "Sableye",
+    "Type": ["Dark", "Ghost"],
+    "FIELD6": "Cyan Cavern, Murk Forest, Crystal Caves, Mount Rose (int.), Deep Mantle, Friend Safari"
+  },
+  {
+    "Dex": "033",
+    "Pokémon": "Mawile",
+    "Type": ["Steel", "Fairy"],
+    "FIELD6": "Ancient Tower, Holon Grasslands, Friend Safari"
+  },
+  {
+    "Dex": "034",
+    "Pokémon": "Aron",
+    "Type": ["Steel", "Rock"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "035",
+    "Pokémon": "Lairon",
+    "Type": ["Steel", "Rock"],
+    "FIELD6": "Whirl Islands, Friend Safari, Void Gauntlet"
+  },
+  {
+    "Dex": "036",
+    "Pokémon": "Aggron",
+    "Type": ["Steel", "Rock"],
+    "FIELD6": "Mount Rose (int.), Victory Road, Mountainous Cave, Holon Volcano"
+  },
+  {
+    "Dex": "037",
+    "Pokémon": "Meditite",
+    "Type": ["Fighting", "Psychic"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "038",
+    "Pokémon": "Medicham",
+    "Type": ["Fighting", "Psychic"],
+    "FIELD6": "Holon Mountain"
+  },
+  {
+    "Dex": "039",
+    "Pokémon": "Electrike",
+    "Type": ["Electric"],
+    "FIELD5": "Friend Safari, Crossroads",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "310",
+    "Pokémon": "Manectric",
+    "Type": ["Electric"],
+    "FIELD5": "Route 15",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "311",
+    "Pokémon": "Plusle",
+    "Type": ["Electric"],
+    "FIELD5": "Route 6, Route 14, Holon Lake, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "312",
+    "Pokémon": "Minun",
+    "Type": ["Electric"],
+    "FIELD5": "Route 6, Route 14, Holon Lake, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "313",
+    "Pokémon": "Volbeat",
+    "Type": ["Bug"],
+    "FIELD5": "Murk Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "314",
+    "Pokémon": "Illumise",
+    "Type": ["Bug"],
+    "FIELD5": "Murk Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "315",
+    "Pokémon": "Roselia",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Route 5, Friend Safari"
+  },
+  {
+    "Dex": "316",
+    "Pokémon": "Gulpin",
+    "Type": ["Poison"],
+    "FIELD5": "Vipik Dump, Helios Sewers, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "317",
+    "Pokémon": "Swalot",
+    "Type": ["Poison"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "318",
+    "Pokémon": "Carvanha",
+    "Type": ["Water", "Dark"],
+    "FIELD6": "Dark Cave, Midna Town, Maelstrom 9, Holon Grasslands, Friend Safari"
+  },
+  {
+    "Dex": "319",
+    "Pokémon": "Sharpedo",
+    "Type": ["Water", "Dark"],
+    "FIELD6": "Midna Town, Dark Cave, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Route 14, Oranos Town, Route 15, Amphitrite City, Mt. Rose Base, Victory Road"
+  },
+  {
+    "Dex": "320",
+    "Pokémon": "Wailmer",
+    "Type": ["Water"],
+    "FIELD5": "Miara Town, Stormy Seas, Whirl Islands, Route 9, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Route 14, Mt. Rose Base, Mount Rose, Mount Rose (int.), Route 17, Misty Way, Mist Island, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "321",
+    "Pokémon": "Wailord",
+    "Type": ["Water"],
+    "FIELD5": "Amphitrite City, Deyraan Cave, Nexa Town, Nexa Border, Victory Road, Holon Lake, Holon Undercave, Misty Way, Mist Island",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "322",
+    "Pokémon": "Numel",
+    "Type": ["Fire", "Ground"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "323",
+    "Pokémon": "Camerupt",
+    "Type": ["Fire", "Ground"],
+    "FIELD6": "Fiery Caverns, Rose Crater, Infernal Dungeon, Upper Mantle, Deep Mantle"
+  },
+  {
+    "Dex": "324",
+    "Pokémon": "Torkoal",
+    "Type": ["Fire"],
+    "FIELD5": "Cave of Steam, Fiery Caverns, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "325",
+    "Pokémon": "Spoink",
+    "Type": ["Psychic"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "326",
+    "Pokémon": "Grumpig",
+    "Type": ["Psychic"],
+    "FIELD5": "Crystal Caves, REM Ocean",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "327",
+    "Pokémon": "Spinda",
+    "Type": ["Normal"],
+    "FIELD5": "Route 12, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "328",
+    "Pokémon": "Trapinch",
+    "Type": ["Ground"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "329",
+    "Pokémon": "Vibrava",
+    "Type": ["Ground", "Dragon"],
+    "FIELD6": "Rezzai Desert, Friend Safari"
+  },
+  {
+    "Dex": "330",
+    "Pokémon": "Flygon",
+    "Type": ["Ground", "Dragon"],
+    "FIELD6": "Safari Zone, Holon Desert"
+  },
+  {
+    "Dex": "331",
+    "Pokémon": "Cacnea",
+    "Type": ["Grass"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "332",
+    "Pokémon": "Cacturne",
+    "Type": ["Grass", "Dark"],
+    "FIELD6": "Route 12, Holon Jungle"
+  },
+  {
+    "Dex": "333",
+    "Pokémon": "Swablu",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Misty Way, Friend Safari"
+  },
+  {
+    "Dex": "334",
+    "Pokémon": "Altaria",
+    "Type": ["Dragon", "Flying"],
+    "FIELD6": "Misty Way, Route 16, Soaring"
+  },
+  {
+    "Dex": "335",
+    "Pokémon": "Zangoose",
+    "Type": ["Normal"],
+    "FIELD5": "Route 15, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "336",
+    "Pokémon": "Seviper",
+    "Type": ["Poison"],
+    "FIELD5": "Slither Forest, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "337",
+    "Pokémon": "Lunatone",
+    "Type": ["Rock", "Psychic"],
+    "FIELD6": "Samsara Cave, Nasca Town, Nasca Cave, Route 15, Holon Lake, Mountainous Cave, Friend Safari"
+  },
+  {
+    "Dex": "338",
+    "Pokémon": "Solrock",
+    "Type": ["Rock", "Psychic"],
+    "FIELD6": "Samsara Cave, Nasca Town, Nasca Cave, Route 15, Holon Desert, Holon Lake, Mountainous Cave, No Man's Land"
+  },
+  {
+    "Dex": "339",
+    "Pokémon": "Barboach",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Route 1, Route 4, Helios City, Utira Town, Route 8, Miara Town, Oranos Town, Mt. Rose Base, Mount Rose, Mount Rose (int.), Narra Town, Narra Border, Holon Mountain, Mountainous Cave, Friend Safari"
+  },
+  {
+    "Dex": "340",
+    "Pokémon": "Whiscash",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Route 1, Koril Town, Utira Town, Route 8, Miara Town, Mt. Rose Base, Mount Rose, Mount Rose (int.), Nexa Town, Nexa Border, Settlement Oscar, Holon Undercave, Mountainous Cave"
+  },
+  {
+    "Dex": "341",
+    "Pokémon": "Corphish",
+    "Type": ["Water"],
+    "FIELD5": "Dark Cave, Route 2, Suntouched City, Utira Town, Route 8, Stormy Seas, Route 15, Gaea Town, Settlement Oscar, Holon Marsh, Misty Way, Mist Island, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "342",
+    "Pokémon": "Crawdaunt",
+    "Type": ["Water", "Dark"],
+    "FIELD6": "Dark Cave, Whirl Islands, Route 15, Route 16, Narra Town, Narra Border, Nexa Town, Victory Road, Holon Grasslands, Settlement Oscar, Holon Marsh"
+  },
+  {
+    "Dex": "343",
+    "Pokémon": "Baltoy",
+    "Type": ["Ground", "Psychic"],
+    "FIELD6": "Telnor Cave, Friend Safari"
+  },
+  {
+    "Dex": "344",
+    "Pokémon": "Claydol",
+    "Type": ["Ground", "Psychic"],
+    "FIELD6": "Safari Zone, Ancient Tower, Mount Rose (int.), Holon Desert"
+  },
+  {
+    "Dex": "345",
+    "Pokémon": "Lileep",
+    "Type": ["Rock", "Grass"],
+    "FIELD6": "Root Fossil, Friend Safari"
+  },
+  {
+    "Dex": "346",
+    "Pokémon": "Cradily",
+    "Type": ["Rock", "Grass"],
+    "FIELD6": "Safari Zone, Dragon Ruins, Route 15, Narra Border"
+  },
+  {
+    "Dex": "347",
+    "Pokémon": "Anorith",
+    "Type": ["Rock", "Bug"],
+    "FIELD6": "Claw Fossil, Friend Safari"
+  },
+  {
+    "Dex": "348",
+    "Pokémon": "Armaldo",
+    "Type": ["Rock", "Bug"],
+    "FIELD6": "Route 15, Narra Border"
+  },
+  {
+    "Dex": "349",
+    "Pokémon": "Feebas",
+    "Type": ["Water"],
+    "FIELD5": "Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Dragon Ruins, Route 16, Victory Road, Settlement Oscar, Gaea Town, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "350",
+    "Pokémon": "Milotic",
+    "Type": ["Water"],
+    "FIELD5": "Route 6, Route 7",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "351",
+    "Pokémon": "Castform",
+    "Type": ["Normal"],
+    "FIELD5": "Misty Way, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "352",
+    "Pokémon": "Kecleon",
+    "Type": ["Normal"],
+    "FIELD5": "Crossroads",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "353",
+    "Pokémon": "Shuppet",
+    "Type": ["Ghost"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "354",
+    "Pokémon": "Banette",
+    "Type": ["Ghost"],
+    "FIELD5": "Utira Library, Ancient Tower",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "355",
+    "Pokémon": "Duskull",
+    "Type": ["Ghost"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "356",
+    "Pokémon": "Dusclops",
+    "Type": ["Ghost"],
+    "FIELD5": "Utira Library, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "357",
+    "Pokémon": "Tropius",
+    "Type": ["Grass", "Flying"],
+    "FIELD6": "Miara Town, Route 11, Friend Safari"
+  },
+  {
+    "Dex": "358",
+    "Pokémon": "Chimecho",
+    "Type": ["Psychic"],
+    "FIELD5": "Route 7, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "359",
+    "Pokémon": "Absol",
+    "Type": ["Dark"],
+    "FIELD5": "Murk Forest, Route 15, Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "360",
+    "Pokémon": "Wynaut",
+    "Type": ["Psychic"],
+    "FIELD5": "Helios City, Route 11, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "361",
+    "Pokémon": "Snorunt",
+    "Type": ["Ice"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "362",
+    "Pokémon": "Glalie",
+    "Type": ["Ice"],
+    "FIELD5": "Whirl Islands, Mount Rose (int.), Deyraan Cave, Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "363",
+    "Pokémon": "Spheal",
+    "Type": ["Ice", "Water"],
+    "FIELD6": "Misty Way, Mist Island"
+  },
+  {
+    "Dex": "364",
+    "Pokémon": "Sealeo",
+    "Type": ["Ice", "Water"],
+    "FIELD6": "Whirl Islands, Friend Safari"
+  },
+  {
+    "Dex": "365",
+    "Pokémon": "Walrein",
+    "Type": ["Ice", "Water"],
+    "FIELD6": "Deyraan Town"
+  },
+  {
+    "Dex": "366",
+    "Pokémon": "Clamperl",
+    "Type": ["Water"],
+    "FIELD5": "Midna Mine, Amphitrite City, Deyraan Cave, Narra Town, Narra Border, Holon Mountain, Mountainous Cave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "367",
+    "Pokémon": "Huntail",
+    "Type": ["Water"],
+    "FIELD5": "Midna Mine, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Dragon Ruins, Route 14, Amphitrite City, Route 16, Narra Town, Narra Border, Holon Grasslands, Holon Lake, Holon Undercave, Holon Mountain, Mountainous Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "368",
+    "Pokémon": "Gorebyss",
+    "Type": ["Water"],
+    "FIELD5": "Midna Mine, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Maelstrom 9, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Dragon Ruins, Route 14, Holon Grasslands, Holon Lake, Holon Undercave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "369",
+    "Pokémon": "Relicanth",
+    "Type": ["Water", "Rock"],
+    "FIELD6": "Cyan Cavern, Whirl Islands, Maelstrom 9, Nasca Town, Amphitrite City, Crystal Caves, Narra Town, Narra Border"
+  },
+  {
+    "Dex": "370",
+    "Pokémon": "Luvdisc",
+    "Type": ["Water"],
+    "FIELD5": "Midna Mine, Route 14, Deyraan Cave, Route 16, Nexa Border, Nexa Town, Holon Lake, Holon Undercave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "371",
+    "Pokémon": "Bagon",
+    "Type": ["Dragon"],
+    "FIELD5": "Torren Game Corner",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "372",
+    "Pokémon": "Shelgon",
+    "Type": ["Dragon"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "373",
+    "Pokémon": "Salamence",
+    "Type": ["Dragon", "Flying"],
+    "FIELD6": "Nexa Border, Victory Road, Soaring"
+  },
+  {
+    "Dex": "374",
+    "Pokémon": "Beldum",
+    "Type": ["Steel", "Psychic"],
+    "FIELD6": "Kepler City, Route 17"
+  },
+  {
+    "Dex": "375",
+    "Pokémon": "Metang",
+    "Type": ["Steel", "Psychic"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "376",
+    "Pokémon": "Metagross",
+    "Type": ["Steel", "Psychic"],
+    "FIELD6": "Holon Lake"
+  },
+  {
+    "Dex": "377",
+    "Pokémon": "Regirock",
+    "Type": ["Rock"],
+    "FIELD5": "Rezzai Cavern",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "378",
+    "Pokémon": "Regice",
+    "Type": ["Ice"],
+    "FIELD5": "Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "379",
+    "Pokémon": "Registeel",
+    "Type": ["Steel"],
+    "FIELD5": "Mount Rose",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "380",
+    "Pokémon": "Latias",
+    "Type": ["Dragon", "Psychic"],
+    "FIELD6": "Mist Island"
+  },
+  {
+    "Dex": "381",
+    "Pokémon": "Latios",
+    "Type": ["Dragon", "Psychic"],
+    "FIELD6": "Broadcast Tower"
+  },
+  {
+    "Dex": "382",
+    "Pokémon": "Kyogre",
+    "Type": ["Water"],
+    "FIELD5": "Deep Cavern",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "383",
+    "Pokémon": "Groudon",
+    "Type": ["Ground"],
+    "FIELD5": "Outer Core",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "384",
+    "Pokémon": "Rayquaza",
+    "Type": ["Dragon", "Flying"],
+    "FIELD6": "Jade Tower"
+  },
+  {
+    "Dex": "385",
+    "Pokémon": "Jirachi",
+    "Type": ["Steel", "Psychic"],
+    "FIELD6": "Mount Rose (int.)"
+  },
+  {
+    "Dex": "386",
+    "Pokémon": "Deoxys",
+    "Type": ["Psychic"],
+    "FIELD5": "Nightmare Badlands",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "387",
+    "Pokémon": "Turtwig",
+    "Type": ["Grass"],
+    "FIELD5": "Route 10",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "388",
+    "Pokémon": "Grotle",
+    "Type": ["Grass"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "389",
+    "Pokémon": "Torterra",
+    "Type": ["Grass", "Ground"],
+    "FIELD6": "Nexa Border, Holon Lake"
+  },
+  {
+    "Dex": "390",
+    "Pokémon": "Chimchar",
+    "Type": ["Fire"],
+    "FIELD5": "Murk Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "391",
+    "Pokémon": "Monferno",
+    "Type": ["Fire", "Fighting"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "392",
+    "Pokémon": "Infernape",
+    "Type": ["Fire", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "393",
+    "Pokémon": "Piplup",
+    "Type": ["Water"],
+    "FIELD5": "Midna Garden, Suntouched Exitway, Crossroads",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "394",
+    "Pokémon": "Prinplup",
+    "Type": ["Water"],
+    "FIELD5": "Route 5, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "395",
+    "Pokémon": "Empoleon",
+    "Type": ["Water", "Steel"],
+    "FIELD6": "Route 10, Route 15, Amphitrite City, Mt. Rose Base, Nexa Border"
+  },
+  {
+    "Dex": "396",
+    "Pokémon": "Starly",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Torren Game Corner, Friend Safari"
+  },
+  {
+    "Dex": "397",
+    "Pokémon": "Staravia",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "398",
+    "Pokémon": "Staraptor",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Soaring"
+  },
+  {
+    "Dex": "399",
+    "Pokémon": "Bidoof",
+    "Type": ["Normal"],
+    "FIELD5": "Route 2, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "040",
+    "Pokémon": "Bibarel",
+    "Type": ["Normal", "Water"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "041",
+    "Pokémon": "Kricketot",
+    "Type": ["Bug"],
+    "FIELD5": "Void Gauntlet",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "042",
+    "Pokémon": "Kricketune",
+    "Type": ["Bug"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "043",
+    "Pokémon": "Shinx",
+    "Type": ["Electric"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "044",
+    "Pokémon": "Luxio",
+    "Type": ["Electric"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "045",
+    "Pokémon": "Luxray",
+    "Type": ["Electric"],
+    "FIELD5": "Route 5, Route 17",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "046",
+    "Pokémon": "Budew",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "047",
+    "Pokémon": "Roserade",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "048",
+    "Pokémon": "Cranidos",
+    "Type": ["Rock"],
+    "FIELD5": "Skull Fossil, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "049",
+    "Pokémon": "Rampardos",
+    "Type": ["Rock"],
+    "FIELD5": "Nasca Town, Nasca Cave, Narra Border",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "410",
+    "Pokémon": "Shieldon",
+    "Type": ["Rock", "Steel"],
+    "FIELD6": "Armor Fossil, Friend Safari"
+  },
+  {
+    "Dex": "411",
+    "Pokémon": "Bastiodon",
+    "Type": ["Rock", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "412",
+    "Pokémon": "Burmy",
+    "Type": ["Bug"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "413",
+    "Pokémon": "Wormadam",
+    "Type": ["Bug", "Grass"],
+    "FIELD6": "Mount Rose"
+  },
+  {
+    "Dex": "414",
+    "Pokémon": "Mothim",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Holon Grasslands"
+  },
+  {
+    "Dex": "415",
+    "Pokémon": "Combee",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Holon Grasslands, Friend Safari"
+  },
+  {
+    "Dex": "416",
+    "Pokémon": "Vespiquen",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Route 14"
+  },
+  {
+    "Dex": "417",
+    "Pokémon": "Pachirisu",
+    "Type": ["Electric"],
+    "FIELD5": "Route 6, Route 14, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "418",
+    "Pokémon": "Buizel",
+    "Type": ["Water"],
+    "FIELD5": "Route 2, Midna Town, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "419",
+    "Pokémon": "Floatzel",
+    "Type": ["Water"],
+    "FIELD5": "Maelstrom 9, Oranos Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "420",
+    "Pokémon": "Cherubi",
+    "Type": ["Grass"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "421",
+    "Pokémon": "Cherrim",
+    "Type": ["Grass"],
+    "FIELD5": "Route 17",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "422",
+    "Pokémon": "Shellos",
+    "Type": ["Water"],
+    "FIELD5": "Telnor Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "423",
+    "Pokémon": "Gastrodon",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Samsara Cave, Koril Cave, Rezzai Cavern, Utira Town, Route 8"
+  },
+  {
+    "Dex": "424",
+    "Pokémon": "Ambipom",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "425",
+    "Pokémon": "Drifloon",
+    "Type": ["Ghost", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "426",
+    "Pokémon": "Drifblim",
+    "Type": ["Ghost", "Flying"],
+    "FIELD6": "REM Ocean, Soaring"
+  },
+  {
+    "Dex": "427",
+    "Pokémon": "Buneary",
+    "Type": ["Normal"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "428",
+    "Pokémon": "Lopunny",
+    "Type": ["Normal"],
+    "FIELD5": "Holon Desert",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "429",
+    "Pokémon": "Mismagius",
+    "Type": ["Ghost"],
+    "FIELD5": "Utira Library, Crystal Caves, Holon Pyramid, Nightmare Badlands, Rem Village",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "430",
+    "Pokémon": "Honchkrow",
+    "Type": ["Dark", "Flying"],
+    "FIELD6": "Murk Forest, Route 16"
+  },
+  {
+    "Dex": "431",
+    "Pokémon": "Glameow",
+    "Type": ["Normal"],
+    "FIELD5": "Route 5, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "432",
+    "Pokémon": "Purugly",
+    "Type": ["Normal"],
+    "FIELD5": "Safari Zone",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "433",
+    "Pokémon": "Chingling",
+    "Type": ["Psychic"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "434",
+    "Pokémon": "Stunky",
+    "Type": ["Poison", "Dark"],
+    "FIELD6": "Midna Garden, Vipik Dump, Crossroads, Helios Sewers, Friend Safari"
+  },
+  {
+    "Dex": "435",
+    "Pokémon": "Skuntank",
+    "Type": ["Poison", "Dark"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "436",
+    "Pokémon": "Bronzor",
+    "Type": ["Steel", "Psychic"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "437",
+    "Pokémon": "Bronzong",
+    "Type": ["Steel", "Psychic"],
+    "FIELD6": "REM Ocean"
+  },
+  {
+    "Dex": "438",
+    "Pokémon": "Bonsly",
+    "Type": ["Rock"],
+    "FIELD5": "Helios City",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "439",
+    "Pokémon": "Mime Jr.",
+    "Type": ["Psychic", "Fairy"],
+    "FIELD6": "Misty Way"
+  },
+  {
+    "Dex": "440",
+    "Pokémon": "Happiny",
+    "Type": ["Normal"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "441",
+    "Pokémon": "Chatot",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Route 7, Route 16, Friend Safari"
+  },
+  {
+    "Dex": "442",
+    "Pokémon": "Spiritomb",
+    "Type": ["Ghost", "Dark"],
+    "FIELD6": "Upper Mantle, Deep Mantle, Nightmare Badlands, Rem Village, Friend Safari"
+  },
+  {
+    "Dex": "443",
+    "Pokémon": "Gible",
+    "Type": ["Dragon", "Ground"],
+    "FIELD6": "Oranos Town"
+  },
+  {
+    "Dex": "444",
+    "Pokémon": "Gabite",
+    "Type": ["Dragon", "Ground"],
+    "FIELD6": "Holon Undercave, Mountainous Cave, Friend Safari"
+  },
+  {
+    "Dex": "445",
+    "Pokémon": "Garchomp",
+    "Type": ["Dragon", "Ground"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "446",
+    "Pokémon": "Munchlax",
+    "Type": ["Normal"],
+    "FIELD5": "Hekate Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "447",
+    "Pokémon": "Riolu",
+    "Type": ["Fighting"],
+    "FIELD5": "Ancient Ruins, Samsara Cave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "448",
+    "Pokémon": "Lucario",
+    "Type": ["Fighting", "Steel"],
+    "FIELD6": "Ancient Tower, Holon Pyramid, Alpha Temple"
+  },
+  {
+    "Dex": "449",
+    "Pokémon": "Hippopotas",
+    "Type": ["Ground"],
+    "FIELD5": "Rezzai Desert, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "450",
+    "Pokémon": "Hippowdon",
+    "Type": ["Ground"],
+    "FIELD5": "Safari Zone, Holon Desert",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "451",
+    "Pokémon": "Skorupi",
+    "Type": ["Poison", "Bug"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "452",
+    "Pokémon": "Drapion",
+    "Type": ["Poison", "Dark"],
+    "FIELD6": "Safari Zone"
+  },
+  {
+    "Dex": "453",
+    "Pokémon": "Croagunk",
+    "Type": ["Poison", "Fighting"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "454",
+    "Pokémon": "Toxicroak",
+    "Type": ["Poison", "Fighting"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "455",
+    "Pokémon": "Carnivine",
+    "Type": ["Grass"],
+    "FIELD5": "Route 10, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "456",
+    "Pokémon": "Finneon",
+    "Type": ["Water"],
+    "FIELD5": "Midna Town, Utira Town, Route 8, Miara Town, Route 14, Victory Road, Holon Marsh",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "457",
+    "Pokémon": "Lumineon",
+    "Type": ["Water"],
+    "FIELD5": "Midna Town, Utira Town, Route 8, Miara Town, Amphitrite City, Victory Road, Holon Marsh, Holon Mountain, Mountainous Cave, Route 17, Gaea Town, Misty Way, Mist Island",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "458",
+    "Pokémon": "Mantyke",
+    "Type": ["Water", "Flying"],
+    "FIELD6": "Shade Forest, Ancient Ruins, Route 3, Route 4, Route 14, Nexa Border, Nexa Town, Friend Safari"
+  },
+  {
+    "Dex": "459",
+    "Pokémon": "Snover",
+    "Type": ["Grass", "Ice"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "460",
+    "Pokémon": "Abomasnow",
+    "Type": ["Grass", "Ice"],
+    "FIELD6": "Deyraan Cave, Victory Road, Holon Mountain"
+  },
+  {
+    "Dex": "461",
+    "Pokémon": "Weavile",
+    "Type": ["Dark", "Ice"],
+    "FIELD6": "Safari Zone, Victory Road, No Man's Land"
+  },
+  {
+    "Dex": "462",
+    "Pokémon": "Magnezone",
+    "Type": ["Electric", "Steel"],
+    "FIELD6": "Evolves in Whirl Islands"
+  },
+  {
+    "Dex": "463",
+    "Pokémon": "Lickilicky",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "464",
+    "Pokémon": "Rhyperior",
+    "Type": ["Ground", "Rock"],
+    "FIELD6": "Void Gauntlet"
+  },
+  {
+    "Dex": "465",
+    "Pokémon": "Tangrowth",
+    "Type": ["Grass"],
+    "FIELD5": "Route 12, Holon Desert",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "466",
+    "Pokémon": "Electivire",
+    "Type": ["Electric"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "467",
+    "Pokémon": "Magmortar",
+    "Type": ["Fire"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "468",
+    "Pokémon": "Togekiss",
+    "Type": ["Fairy", "Flying"],
+    "FIELD6": "Route 15"
+  },
+  {
+    "Dex": "469",
+    "Pokémon": "Yanmega",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Route 11, Safari Zone, Holon Marsh"
+  },
+  {
+    "Dex": "470",
+    "Pokémon": "Leafeon",
+    "Type": ["Grass"],
+    "FIELD5": "Evolves in Murk Forest, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "471",
+    "Pokémon": "Glaceon",
+    "Type": ["Ice"],
+    "FIELD5": "Evolve only (Whirl Islands, Deyraan Town, Victory Road, Holon Mountain, Settlement Juliet, No Man's Land)",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "472",
+    "Pokémon": "Gliscor",
+    "Type": ["Ground", "Flying"],
+    "FIELD6": "Holon Desert"
+  },
+  {
+    "Dex": "473",
+    "Pokémon": "Mamoswine",
+    "Type": ["Ice", "Ground"],
+    "FIELD6": "Deyraan Cave, Holon Lake, No Man's Land"
+  },
+  {
+    "Dex": "474",
+    "Pokémon": "Porygon-Z",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "475",
+    "Pokémon": "Gallade",
+    "Type": ["Psychic", "Fighting"],
+    "FIELD6": "Nexa Border"
+  },
+  {
+    "Dex": "476",
+    "Pokémon": "Probopass",
+    "Type": ["Rock", "Steel"],
+    "FIELD6": "Evolves in Whirl Islands"
+  },
+  {
+    "Dex": "477",
+    "Pokémon": "Dusknoir",
+    "Type": ["Ghost"],
+    "FIELD5": "Victory Road, Nightmare Badlands, Rem Village",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "478",
+    "Pokémon": "Froslass",
+    "Type": ["Ice", "Ghost"],
+    "FIELD6": "No Man's Land"
+  },
+  {
+    "Dex": "479",
+    "Pokémon": "Rotom",
+    "Type": ["Electric", "Ghost"],
+    "FIELD6": "Possiblity of appearing when interacting with TV, Friend Safari"
+  },
+  {
+    "Dex": "480",
+    "Pokémon": "Uxie",
+    "Type": ["Psychic"],
+    "FIELD5": "Dev Island",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "481",
+    "Pokémon": "Mesprit",
+    "Type": ["Psychic"],
+    "FIELD5": "Dev Island",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "482",
+    "Pokémon": "Azelf",
+    "Type": ["Psychic"],
+    "FIELD5": "Dev Island",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "483",
+    "Pokémon": "Dialga",
+    "Type": ["Steel", "Dragon"],
+    "FIELD6": "Void Gauntlet"
+  },
+  {
+    "Dex": "484",
+    "Pokémon": "Palkia",
+    "Type": ["Water", "Dragon"],
+    "FIELD6": "Void Gauntlet"
+  },
+  {
+    "Dex": "485",
+    "Pokémon": "Heatran",
+    "Type": ["Fire", "Steel"],
+    "FIELD6": "Infernal Dungeon or Fiery Caverns"
+  },
+  {
+    "Dex": "486",
+    "Pokémon": "Regigigas",
+    "Type": ["Normal"],
+    "FIELD5": "Gaea Core",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "487",
+    "Pokémon": "Giratina",
+    "Type": ["Ghost", "Dragon"],
+    "FIELD6": "Throne of the Hegemon"
+  },
+  {
+    "Dex": "488",
+    "Pokémon": "Cresselia",
+    "Type": ["Psychic"],
+    "FIELD5": "Roaming encounter (can replace Pokemon encounters in Hekate Town, Route 12, Selene City, Dragon Ruins, Route 13, Oranos Town, Route 14, and Route 15) after delivering Diana's package",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "489",
+    "Pokémon": "Phione",
+    "Type": ["Water"],
+    "FIELD5": "Breeding Only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "490",
+    "Pokémon": "Manaphy",
+    "Type": ["Water"],
+    "FIELD5": "Selene City",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "491",
+    "Pokémon": "Darkrai",
+    "Type": ["Dark"],
+    "FIELD5": "Rem Village",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "492",
+    "Pokémon": "Shaymin",
+    "Type": ["Grass"],
+    "FIELD5": "Erebus City",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "493",
+    "Pokémon": "Arceus",
+    "Type": ["Normal"],
+    "FIELD5": "Throne of the Hegemon",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "494",
+    "Pokémon": "Victini",
+    "Type": ["Psychic", "Fire"],
+    "FIELD6": "Crystal Caves"
+  },
+  {
+    "Dex": "495",
+    "Pokémon": "Snivy",
+    "Type": ["Grass"],
+    "FIELD5": "Holon Lake",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "496",
+    "Pokémon": "Servine",
+    "Type": ["Grass"],
+    "FIELD5": "Route 5, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "497",
+    "Pokémon": "Serperior",
+    "Type": ["Grass"],
+    "FIELD5": "Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "498",
+    "Pokémon": "Tepig",
+    "Type": ["Fire"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "499",
+    "Pokémon": "Pignite",
+    "Type": ["Fire", "Fighting"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "050",
+    "Pokémon": "Emboar",
+    "Type": ["Fire", "Fighting"],
+    "FIELD6": "Rose Crater"
+  },
+  {
+    "Dex": "051",
+    "Pokémon": "Oshawott",
+    "Type": ["Water"],
+    "FIELD5": "Route 1",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "052",
+    "Pokémon": "Dewott",
+    "Type": ["Water"],
+    "FIELD5": "Route 14, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "053",
+    "Pokémon": "Samurott",
+    "Type": ["Water"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "054",
+    "Pokémon": "Patrat",
+    "Type": ["Normal"],
+    "FIELD5": "Shade Forest, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "055",
+    "Pokémon": "Watchog",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "056",
+    "Pokémon": "Lillipup",
+    "Type": ["Normal"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "057",
+    "Pokémon": "Herdier",
+    "Type": ["Normal"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "058",
+    "Pokémon": "Stoutland",
+    "Type": ["Normal"],
+    "FIELD5": "Route 7, Route 12",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "059",
+    "Pokémon": "Purrloin",
+    "Type": ["Dark"],
+    "FIELD5": "Dark Cave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "510",
+    "Pokémon": "Liepard",
+    "Type": ["Dark"],
+    "FIELD5": "Dark Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "511",
+    "Pokémon": "Pansage",
+    "Type": ["Grass"],
+    "FIELD5": "Route 3, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "512",
+    "Pokémon": "Simisage",
+    "Type": ["Grass"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "513",
+    "Pokémon": "Pansear",
+    "Type": ["Fire"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "514",
+    "Pokémon": "Simisear",
+    "Type": ["Fire"],
+    "FIELD5": "Fiery Caverns",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "515",
+    "Pokémon": "Panpour",
+    "Type": ["Water"],
+    "FIELD5": "Cyan Cavern, Route 4, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "516",
+    "Pokémon": "Simipour",
+    "Type": ["Water"],
+    "FIELD5": "Route 14, Route 17",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "517",
+    "Pokémon": "Munna",
+    "Type": ["Psychic"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "518",
+    "Pokémon": "Musharna",
+    "Type": ["Psychic"],
+    "FIELD5": "Cortisol Road, REM Ocean, Nightmare Badlands, Rem Village",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "519",
+    "Pokémon": "Pidove",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "520",
+    "Pokémon": "Tranquill",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "521",
+    "Pokémon": "Unfezant",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Holon Grasslands, Route 17"
+  },
+  {
+    "Dex": "522",
+    "Pokémon": "Blitzle",
+    "Type": ["Electric"],
+    "FIELD5": "Route 1, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "523",
+    "Pokémon": "Zebstrika",
+    "Type": ["Electric"],
+    "FIELD5": "Sonata Tracks, Safari Zone",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "524",
+    "Pokémon": "Roggenrola",
+    "Type": ["Rock"],
+    "FIELD5": "Telnor Cave, Midna Mine, Cyan Cavern, Suntouched Exitway, Samsara Cave, Cave of Steam",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "525",
+    "Pokémon": "Boldore",
+    "Type": ["Rock"],
+    "FIELD5": "Samsara Cave, Rezzai Cavern, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "526",
+    "Pokémon": "Gigalith",
+    "Type": ["Rock"],
+    "FIELD5": "Cave of Steam, Whirl Islands, Route 15, Crystal Caves, Mount Rose (int.), Deyraan Cave, Mountainous Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "527",
+    "Pokémon": "Woobat",
+    "Type": ["Psychic", "Flying"],
+    "FIELD6": "Midna Mine, Friend Safari"
+  },
+  {
+    "Dex": "528",
+    "Pokémon": "Swoobat",
+    "Type": ["Psychic", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "529",
+    "Pokémon": "Drilbur",
+    "Type": ["Ground"],
+    "FIELD5": "Midna Mine, Utira Town, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "530",
+    "Pokémon": "Excadrill",
+    "Type": ["Ground", "Steel"],
+    "FIELD6": "Safari Zone, Mount Rose (int.), Victory Road, Upper Mantle, Deep Mantle, Holon Volcano"
+  },
+  {
+    "Dex": "531",
+    "Pokémon": "Audino",
+    "Type": ["Normal"],
+    "FIELD5": "Safari Zone, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "532",
+    "Pokémon": "Timburr",
+    "Type": ["Fighting"],
+    "FIELD5": "Suntouched Exitway",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "533",
+    "Pokémon": "Gurdurr",
+    "Type": ["Fighting"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "534",
+    "Pokémon": "Conkeldurr",
+    "Type": ["Fighting"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "535",
+    "Pokémon": "Tympole",
+    "Type": ["Water"],
+    "FIELD5": "Shade Forest, Telnor Cave, Midna Town, Route 14, Holon Grasslands, Holon Undercave, Holon Marsh, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "536",
+    "Pokémon": "Palpitoad",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Samsara Cave, Rezzai Cavern, Amphitrite City, Crystal Caves, Route 16, Narra Town, Narra Border, Settlement Oscar, Holon Marsh, Holon Undercave, Misty Way, Mist Island, Friend Safari"
+  },
+  {
+    "Dex": "537",
+    "Pokémon": "Seismitoad",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Shade Forest, Telnor Cave, Midna Town, Samsara Cave, Rezzai Cavern, Route 16, Holon Grasslands, Gaea Town"
+  },
+  {
+    "Dex": "538",
+    "Pokémon": "Throh",
+    "Type": ["Fighting"],
+    "FIELD5": "Route 3, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "539",
+    "Pokémon": "Sawk",
+    "Type": ["Fighting"],
+    "FIELD5": "Route 3, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "540",
+    "Pokémon": "Sewaddle",
+    "Type": ["Bug", "Grass"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "541",
+    "Pokémon": "Swadloon",
+    "Type": ["Bug", "Grass"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "542",
+    "Pokémon": "Leavanny",
+    "Type": ["Bug", "Grass"],
+    "FIELD6": "Safari Zone, Mount Rose"
+  },
+  {
+    "Dex": "543",
+    "Pokémon": "Venipede",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Vipik Dump"
+  },
+  {
+    "Dex": "544",
+    "Pokémon": "Whirlipede",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "545",
+    "Pokémon": "Scolipede",
+    "Type": ["Bug", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "546",
+    "Pokémon": "Cottonee",
+    "Type": ["Grass", "Fairy"],
+    "FIELD6": "Route 5, Friend Safari"
+  },
+  {
+    "Dex": "547",
+    "Pokémon": "Whimsicott",
+    "Type": ["Grass", "Fairy"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "548",
+    "Pokémon": "Petilil",
+    "Type": ["Grass"],
+    "FIELD5": "Route 3, Void Gauntlet Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "549",
+    "Pokémon": "Lilligant",
+    "Type": ["Grass"],
+    "FIELD5": "Holon Grasslands",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "550",
+    "Pokémon": "Basculin",
+    "Type": ["Water"],
+    "FIELD5": "Route 3, Metchi Town, Route 14, Deyraan Cave, Route 17, Holon Lake, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "551",
+    "Pokémon": "Sandile",
+    "Type": ["Ground", "Dark"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "552",
+    "Pokémon": "Krokorok",
+    "Type": ["Ground", "Dark"],
+    "FIELD6": "Rezzai Desert, Friend Safari"
+  },
+  {
+    "Dex": "553",
+    "Pokémon": "Krookodile",
+    "Type": ["Ground", "Dark"],
+    "FIELD6": "Safari Zone"
+  },
+  {
+    "Dex": "554",
+    "Pokémon": "Darumaka",
+    "Type": ["Fire"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "555",
+    "Pokémon": "Darmanitan",
+    "Type": ["Fire"],
+    "FIELD5": "Fiery Caverns, Rose Crater, Victory Road, Holon Volcano, Infernal Dungeon, Upper Mantle, Deep Mantle",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "556",
+    "Pokémon": "Maractus",
+    "Type": ["Grass"],
+    "FIELD5": "Route 10, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "557",
+    "Pokémon": "Dwebble",
+    "Type": ["Bug", "Rock"],
+    "FIELD6": "Midna Mine, Cyan Cavern, Cave of Steam, Friend Safari"
+  },
+  {
+    "Dex": "558",
+    "Pokémon": "Crustle",
+    "Type": ["Bug", "Rock"],
+    "FIELD6": "Nasca Town, Nasca Cave, Narra Border, Holon Jungle"
+  },
+  {
+    "Dex": "559",
+    "Pokémon": "Scraggy",
+    "Type": ["Dark", "Fighting"],
+    "FIELD6": "Murk Forest, Friend Safari"
+  },
+  {
+    "Dex": "560",
+    "Pokémon": "Scrafty",
+    "Type": ["Dark", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "561",
+    "Pokémon": "Sigilyph",
+    "Type": ["Psychic", "Flying"],
+    "FIELD6": "Mysterious Hideaway, Ancient Tower, Friend Safari"
+  },
+  {
+    "Dex": "562",
+    "Pokémon": "Yamask",
+    "Type": ["Ghost"],
+    "FIELD5": "Helios Sewers, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "563",
+    "Pokémon": "Cofagrigus",
+    "Type": ["Ghost"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "564",
+    "Pokémon": "Tirtouga",
+    "Type": ["Water", "Rock"],
+    "FIELD6": "Cover Fossil, Friend Safari"
+  },
+  {
+    "Dex": "565",
+    "Pokémon": "Carracosta",
+    "Type": ["Water", "Rock"],
+    "FIELD6": "Route 15, Amphitrite City, Mt. Rose Base, Route 16, Narra Town, Narra Border, Victory Road, Holon Undercave, Mountainous Cave"
+  },
+  {
+    "Dex": "566",
+    "Pokémon": "Archen",
+    "Type": ["Rock", "Flying"],
+    "FIELD6": "Plume Fossil, Science Mission 1, Friend Safari"
+  },
+  {
+    "Dex": "567",
+    "Pokémon": "Archeops",
+    "Type": ["Rock", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "568",
+    "Pokémon": "Trubbish",
+    "Type": ["Poison"],
+    "FIELD5": "Vipik Dump, Helios Sewers, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "569",
+    "Pokémon": "Garbodor",
+    "Type": ["Poison"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "570",
+    "Pokémon": "Zorua",
+    "Type": ["Dark"],
+    "FIELD5": "Deyraan Town, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "571",
+    "Pokémon": "Zoroark",
+    "Type": ["Dark"],
+    "FIELD5": "Nightmare Badlands, Rem Village",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "572",
+    "Pokémon": "Minccino",
+    "Type": ["Normal"],
+    "FIELD5": "Route 4, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "573",
+    "Pokémon": "Cinccino",
+    "Type": ["Normal"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "574",
+    "Pokémon": "Gothita",
+    "Type": ["Psychic"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "575",
+    "Pokémon": "Gothorita",
+    "Type": ["Psychic"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "576",
+    "Pokémon": "Gothitelle",
+    "Type": ["Psychic"],
+    "FIELD5": "REM Ocean, Nightmare Badlands, Rem Village",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "577",
+    "Pokémon": "Solosis",
+    "Type": ["Psychic"],
+    "FIELD5": "Torren Game Corner",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "578",
+    "Pokémon": "Duosion",
+    "Type": ["Psychic"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "579",
+    "Pokémon": "Reuniclus",
+    "Type": ["Psychic"],
+    "FIELD5": "Nightmare Badlands, Rem Village",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "580",
+    "Pokémon": "Ducklett",
+    "Type": ["Water", "Flying"],
+    "FIELD6": "Dark Cave, Route 4, Friend Safari"
+  },
+  {
+    "Dex": "581",
+    "Pokémon": "Swanna",
+    "Type": ["Water", "Flying"],
+    "FIELD6": "Route 6, Route 7, Utira Town, Route 8, Stormy Seas, Whirl Islands, Route 9, Sonata City, Sonata Hills, Route 10, Kepler City, Route 11, Nasca Town, Safari Zone, Nasca Cave, Murk Forest, Hekate Town, Fiery Caverns, Route 12, Selene City, Route 13, Dragon Ruins, Route 14, Oranos Town, Route 15, Amphitrite City, Mt. Rose Base, Mount Rose"
+  },
+  {
+    "Dex": "582",
+    "Pokémon": "Vanillite",
+    "Type": ["Ice"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "583",
+    "Pokémon": "Vanillish",
+    "Type": ["Ice"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "584",
+    "Pokémon": "Vanilluxe",
+    "Type": ["Ice"],
+    "FIELD5": "Deyraan Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "585",
+    "Pokémon": "Deerling",
+    "Type": ["Normal", "Grass"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "586",
+    "Pokémon": "Sawsbuck",
+    "Type": ["Normal", "Grass"],
+    "FIELD6": "Route 13"
+  },
+  {
+    "Dex": "587",
+    "Pokémon": "Emolga",
+    "Type": ["Electric", "Flying"],
+    "FIELD6": "Route 6, Route 16, Friend Safari"
+  },
+  {
+    "Dex": "588",
+    "Pokémon": "Karrablast",
+    "Type": ["Bug"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "589",
+    "Pokémon": "Escavalier",
+    "Type": ["Bug", "Steel"],
+    "FIELD6": "Mt. Rose Base, Mount Rose, Holon Grasslands"
+  },
+  {
+    "Dex": "590",
+    "Pokémon": "Foongus",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Helios Sewers, Friend Safari"
+  },
+  {
+    "Dex": "591",
+    "Pokémon": "Amoonguss",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Safari Zone, Holon Jungle"
+  },
+  {
+    "Dex": "592",
+    "Pokémon": "Frillish",
+    "Type": ["Water", "Ghost"],
+    "FIELD6": "Route 4, Mt. Rose Base, Mount Rose, Mount Rose (int.), Route 17, Misty Way, Mist Island, Friend Safari"
+  },
+  {
+    "Dex": "593",
+    "Pokémon": "Jellicent",
+    "Type": ["Water", "Ghost"],
+    "FIELD6": "Route 14, REM Ocean, Holon Undercave, Gaea Town, Nightmare Badlands, Rem Village"
+  },
+  {
+    "Dex": "594",
+    "Pokémon": "Alomomola",
+    "Type": ["Water"],
+    "FIELD5": "Metchi Town, Ancient Ruins, Route 15, Mt. Rose Base, Mount Rose, Narra Town, Narra Border, Holon Undercave, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "595",
+    "Pokémon": "Joltik",
+    "Type": ["Bug", "Electric"],
+    "FIELD6": "Murk Forest, Friend Safari"
+  },
+  {
+    "Dex": "596",
+    "Pokémon": "Galvantula",
+    "Type": ["Bug", "Electric"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "597",
+    "Pokémon": "Ferroseed",
+    "Type": ["Grass", "Steel"],
+    "FIELD6": "Route 15, Friend Safari"
+  },
+  {
+    "Dex": "598",
+    "Pokémon": "Ferrothorn",
+    "Type": ["Grass", "Steel"],
+    "FIELD6": "Route 15"
+  },
+  {
+    "Dex": "599",
+    "Pokémon": "Klink",
+    "Type": ["Steel"],
+    "FIELD5": "Route 11",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "060",
+    "Pokémon": "Klang",
+    "Type": ["Steel"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "061",
+    "Pokémon": "Klinklang",
+    "Type": ["Steel"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "062",
+    "Pokémon": "Tynamo",
+    "Type": ["Electric"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "063",
+    "Pokémon": "Eelektrik",
+    "Type": ["Electric"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "064",
+    "Pokémon": "Eelektross",
+    "Type": ["Electric"],
+    "FIELD5": "Safari Zone, Holon Marsh, Gaea Core",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "065",
+    "Pokémon": "Elgyem",
+    "Type": ["Psychic"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "066",
+    "Pokémon": "Beheeyem",
+    "Type": ["Psychic"],
+    "FIELD5": "Gaea Core",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "067",
+    "Pokémon": "Litwick",
+    "Type": ["Ghost", "Fire"],
+    "FIELD6": "Utira Library"
+  },
+  {
+    "Dex": "068",
+    "Pokémon": "Lampent",
+    "Type": ["Ghost", "Fire"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "069",
+    "Pokémon": "Chandelure",
+    "Type": ["Ghost", "Fire"],
+    "FIELD6": "Infernal Dungeon, Upper Mantle, Deep Mantle, Holon Pyramid"
+  },
+  {
+    "Dex": "610",
+    "Pokémon": "Axew",
+    "Type": ["Dragon"],
+    "FIELD5": "Broadcast Tower, Rezzai Cavern",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "611",
+    "Pokémon": "Fraxure",
+    "Type": ["Dragon"],
+    "FIELD5": "Ancient Tower, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "612",
+    "Pokémon": "Haxorus",
+    "Type": ["Dragon"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "613",
+    "Pokémon": "Cubchoo",
+    "Type": ["Ice"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "614",
+    "Pokémon": "Beartic",
+    "Type": ["Ice"],
+    "FIELD5": "Mount Rose (int.)",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "615",
+    "Pokémon": "Cryogonal",
+    "Type": ["Ice"],
+    "FIELD5": "Whirl Islands, Victory Road, Holon Mountain, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "616",
+    "Pokémon": "Shelmet",
+    "Type": ["Bug"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "617",
+    "Pokémon": "Accelgor",
+    "Type": ["Bug"],
+    "FIELD5": "Mt. Rose Base, Mount Rose, Holon Grasslands",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "618",
+    "Pokémon": "Stunfisk",
+    "Type": ["Ground", "Electric"],
+    "FIELD6": "Holon Undercave, Friend Safari"
+  },
+  {
+    "Dex": "619",
+    "Pokémon": "Mienfoo",
+    "Type": ["Fighting"],
+    "FIELD5": "Ancient Tower, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "620",
+    "Pokémon": "Mienshao",
+    "Type": ["Fighting"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "621",
+    "Pokémon": "Druddigon",
+    "Type": ["Dragon"],
+    "FIELD5": "Cave of Steam, Route 15, Crystal Caves, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "622",
+    "Pokémon": "Golett",
+    "Type": ["Ground", "Ghost"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "623",
+    "Pokémon": "Golurk",
+    "Type": ["Ground", "Ghost"],
+    "FIELD6": "Safari Zone, Dragon Ruins, Holon Undercave"
+  },
+  {
+    "Dex": "624",
+    "Pokémon": "Pawniard",
+    "Type": ["Dark", "Steel"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "625",
+    "Pokémon": "Bisharp",
+    "Type": ["Dark", "Steel"],
+    "FIELD6": "Deep Mantle"
+  },
+  {
+    "Dex": "626",
+    "Pokémon": "Bouffalant",
+    "Type": ["Normal"],
+    "FIELD5": "Route 17, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "627",
+    "Pokémon": "Rufflet",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "628",
+    "Pokémon": "Braviary",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Soaring"
+  },
+  {
+    "Dex": "629",
+    "Pokémon": "Vullaby",
+    "Type": ["Dark", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "630",
+    "Pokémon": "Mandibuzz",
+    "Type": ["Dark", "Flying"],
+    "FIELD6": "Nightmare Badlands"
+  },
+  {
+    "Dex": "631",
+    "Pokémon": "Heatmor",
+    "Type": ["Fire"],
+    "FIELD5": "Midna Garden, Cave of Steam, Safari Zone, Infernal Dungeon, Upper Mantle, Deep Mantle, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "632",
+    "Pokémon": "Durant",
+    "Type": ["Bug", "Steel"],
+    "FIELD6": "Midna Garden, Friend Safari, Void Gauntlet"
+  },
+  {
+    "Dex": "633",
+    "Pokémon": "Deino",
+    "Type": ["Dark", "Dragon"],
+    "FIELD6": "Safari Zone, Broadcast Tower"
+  },
+  {
+    "Dex": "634",
+    "Pokémon": "Zweilous",
+    "Type": ["Dark", "Dragon"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "635",
+    "Pokémon": "Hydreigon",
+    "Type": ["Dark", "Dragon"],
+    "FIELD6": "Nexa Border, No Man's Land, Alpha Temple"
+  },
+  {
+    "Dex": "636",
+    "Pokémon": "Larvesta",
+    "Type": ["Bug", "Fire"],
+    "FIELD6": "Roggan Town, Friend Safari"
+  },
+  {
+    "Dex": "637",
+    "Pokémon": "Volcarona",
+    "Type": ["Bug", "Fire"],
+    "FIELD6": "Victory Road, Holon Volcano"
+  },
+  {
+    "Dex": "638",
+    "Pokémon": "Cobalion",
+    "Type": ["Steel", "Fighting"],
+    "FIELD6": "Midna Garden"
+  },
+  {
+    "Dex": "639",
+    "Pokémon": "Terrakion",
+    "Type": ["Rock", "Fighting"],
+    "FIELD6": "Koril Cave"
+  },
+  {
+    "Dex": "640",
+    "Pokémon": "Virizion",
+    "Type": ["Grass", "Fighting"],
+    "FIELD6": "Victory Road"
+  },
+  {
+    "Dex": "641",
+    "Pokémon": "Tornadus",
+    "Type": ["Flying"],
+    "FIELD5": "Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "642",
+    "Pokémon": "Thundurus",
+    "Type": ["Electric", "Flying"],
+    "FIELD6": "Safari Zone"
+  },
+  {
+    "Dex": "643",
+    "Pokémon": "Reshiram",
+    "Type": ["Dragon", "Fire"],
+    "FIELD6": "Dragon Ruins"
+  },
+  {
+    "Dex": "644",
+    "Pokémon": "Zekrom",
+    "Type": ["Dragon", "Electric"],
+    "FIELD6": "Dragon Ruins"
+  },
+  {
+    "Dex": "645",
+    "Pokémon": "Landorus",
+    "Type": ["Ground", "Flying"],
+    "FIELD6": "Rezzai Desert"
+  },
+  {
+    "Dex": "646",
+    "Pokémon": "Kyurem",
+    "Type": ["Dragon", "Ice"],
+    "FIELD6": "Victory Road"
+  },
+  {
+    "Dex": "647",
+    "Pokémon": "Keldeo",
+    "Type": ["Water", "Fighting"],
+    "FIELD6": "Murk Forest"
+  },
+  {
+    "Dex": "648",
+    "Pokémon": "Meloetta",
+    "Type": ["Normal", "Psychic"],
+    "FIELD6": "Samsara Cave"
+  },
+  {
+    "Dex": "649",
+    "Pokémon": "Genesect",
+    "Type": ["Bug", "Steel"],
+    "FIELD6": "Satellite Corps"
+  },
+  {
+    "Dex": "650",
+    "Pokémon": "Chespin",
+    "Type": ["Grass"],
+    "FIELD5": "Route 10",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "651",
+    "Pokémon": "Quilladin",
+    "Type": ["Grass"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "652",
+    "Pokémon": "Chesnaught",
+    "Type": ["Grass", "Fighting"],
+    "FIELD6": "Mt. Rose Base"
+  },
+  {
+    "Dex": "653",
+    "Pokémon": "Fennekin",
+    "Type": ["Fire"],
+    "FIELD5": "Crossroads",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "654",
+    "Pokémon": "Braixen",
+    "Type": ["Fire"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "655",
+    "Pokémon": "Delphox",
+    "Type": ["Fire", "Psychic"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "656",
+    "Pokémon": "Froakie",
+    "Type": ["Water"],
+    "FIELD5": "Murk Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "657",
+    "Pokémon": "Frogadier",
+    "Type": ["Water"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "658",
+    "Pokémon": "Greninja",
+    "Type": ["Water", "Dark"],
+    "FIELD6": "Nexa Border, Holon Marsh"
+  },
+  {
+    "Dex": "659",
+    "Pokémon": "Bunnelby",
+    "Type": ["Normal"],
+    "FIELD5": "Route 1, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "660",
+    "Pokémon": "Diggersby",
+    "Type": ["Normal", "Ground"],
+    "FIELD6": "Safari Zone"
+  },
+  {
+    "Dex": "661",
+    "Pokémon": "Fletchling",
+    "Type": ["Normal", "Flying"],
+    "FIELD6": "Crossroads"
+  },
+  {
+    "Dex": "662",
+    "Pokémon": "Fletchinder",
+    "Type": ["Fire", "Flying"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "663",
+    "Pokémon": "Talonflame",
+    "Type": ["Fire", "Flying"],
+    "FIELD6": "Victory Road, Holon Volcano"
+  },
+  {
+    "Dex": "664",
+    "Pokémon": "Scatterbug",
+    "Type": ["Bug"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "665",
+    "Pokémon": "Spewpa",
+    "Type": ["Bug"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "666",
+    "Pokémon": "Vivillon",
+    "Type": ["Bug", "Flying"],
+    "FIELD6": "Mysterious Hideaway"
+  },
+  {
+    "Dex": "667",
+    "Pokémon": "Litleo",
+    "Type": ["Fire", "Normal"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "668",
+    "Pokémon": "Pyroar",
+    "Type": ["Fire", "Normal"],
+    "FIELD6": "Holon Grasslands"
+  },
+  {
+    "Dex": "669",
+    "Pokémon": "Flabébé",
+    "Type": ["Fairy"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "670",
+    "Pokémon": "Floette",
+    "Type": ["Fairy"],
+    "FIELD5": "Route 5, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "671",
+    "Pokémon": "Florges",
+    "Type": ["Fairy"],
+    "FIELD5": "Route 12, Mysterious Hideaway",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "672",
+    "Pokémon": "Skiddo",
+    "Type": ["Grass"],
+    "FIELD5": "Breeding only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "673",
+    "Pokémon": "Gogoat",
+    "Type": ["Grass"],
+    "FIELD5": "Route 6, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "674",
+    "Pokémon": "Pancham",
+    "Type": ["Fighting"],
+    "FIELD5": "Cyan Cavern, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "675",
+    "Pokémon": "Pangoro",
+    "Type": ["Fighting", "Dark"],
+    "FIELD6": "Route 16"
+  },
+  {
+    "Dex": "676",
+    "Pokémon": "Furfrou",
+    "Type": ["Normal"],
+    "FIELD5": "Route 4, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "677",
+    "Pokémon": "Espurr",
+    "Type": ["Psychic"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "678",
+    "Pokémon": "Meowstic",
+    "Type": ["Psychic"],
+    "FIELD5": "Route 14",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "679",
+    "Pokémon": "Honedge",
+    "Type": ["Steel", "Ghost"],
+    "FIELD6": "Route 9, Route 10"
+  },
+  {
+    "Dex": "680",
+    "Pokémon": "Doublade",
+    "Type": ["Steel", "Ghost"],
+    "FIELD6": "Route 16, Friend Safari"
+  },
+  {
+    "Dex": "681",
+    "Pokémon": "Aegislash",
+    "Type": ["Steel", "Ghost"],
+    "FIELD6": "Nexa Border, Alpha Temple"
+  },
+  {
+    "Dex": "682",
+    "Pokémon": "Spritzee",
+    "Type": ["Fairy"],
+    "FIELD5": "Route 8, Mount Rose, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "683",
+    "Pokémon": "Aromatisse",
+    "Type": ["Fairy"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "684",
+    "Pokémon": "Swirlix",
+    "Type": ["Fairy"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "685",
+    "Pokémon": "Slurpuff",
+    "Type": ["Fairy"],
+    "FIELD5": "Route 8, Mount Rose",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "686",
+    "Pokémon": "Inkay",
+    "Type": ["Dark", "Psychic"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "687",
+    "Pokémon": "Malamar",
+    "Type": ["Dark", "Psychic"],
+    "FIELD6": "Route 16, Holon Marsh, Holon Mountain"
+  },
+  {
+    "Dex": "688",
+    "Pokémon": "Binacle",
+    "Type": ["Rock", "Water"],
+    "FIELD6": "Oranos Town, Route 16, Friend Safari"
+  },
+  {
+    "Dex": "689",
+    "Pokémon": "Barbaracle",
+    "Type": ["Rock", "Water"],
+    "FIELD6": "Route 14, Amphitrite City, Mt. Rose Base, Mount Rose, Mount Rose (int.), Holon Marsh, Holon Lake"
+  },
+  {
+    "Dex": "690",
+    "Pokémon": "Skrelp",
+    "Type": ["Poison", "Water"],
+    "FIELD6": "Route 1, Suntouched Exitway, Koril Cave, Friend Safari"
+  },
+  {
+    "Dex": "691",
+    "Pokémon": "Dragalge",
+    "Type": ["Poison", "Dragon"],
+    "FIELD6": "Route 1"
+  },
+  {
+    "Dex": "692",
+    "Pokémon": "Clauncher",
+    "Type": ["Water"],
+    "FIELD5": "Suntouched Exitway, Crossroads, Crystal Caves, Nexa Border, Nexa Town, Holon Mountain, Mountainous Cave, Route 17, Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "693",
+    "Pokémon": "Clawitzer",
+    "Type": ["Water"],
+    "FIELD5": "Route 15, Nexa Border, Nexa Town, Victory Road, Holon Grasslands, Settlement Oscar, Route 17, Gaea Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "694",
+    "Pokémon": "Helioptile",
+    "Type": ["Electric", "Normal"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "695",
+    "Pokémon": "Heliolisk",
+    "Type": ["Electric", "Normal"],
+    "FIELD6": "Route 16, Narra Town"
+  },
+  {
+    "Dex": "696",
+    "Pokémon": "Tyrunt",
+    "Type": ["Rock", "Dragon"],
+    "FIELD6": "Jaw Fossil, Friend Safari"
+  },
+  {
+    "Dex": "697",
+    "Pokémon": "Tyrantrum",
+    "Type": ["Rock", "Dragon"],
+    "FIELD6": "Narra Border"
+  },
+  {
+    "Dex": "698",
+    "Pokémon": "Amaura",
+    "Type": ["Rock", "Ice"],
+    "FIELD6": "Sail Fossil, Friend Safari"
+  },
+  {
+    "Dex": "699",
+    "Pokémon": "Aurorus",
+    "Type": ["Rock", "Ice"],
+    "FIELD6": "Narra Border, No Man's Land"
+  },
+  {
+    "Dex": "070",
+    "Pokémon": "Sylveon",
+    "Type": ["Fairy"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "071",
+    "Pokémon": "Hawlucha",
+    "Type": ["Fighting", "Flying"],
+    "FIELD6": "Route 9, Victory Road, Friend Safari"
+  },
+  {
+    "Dex": "072",
+    "Pokémon": "Dedenne",
+    "Type": ["Electric", "Fairy"],
+    "FIELD6": "Route 14, Friend Safari"
+  },
+  {
+    "Dex": "073",
+    "Pokémon": "Carbink",
+    "Type": ["Rock", "Fairy"],
+    "FIELD6": "Midna Mine, Cyan Cavern, Cave of Steam, Whirl Islands, Nasca Town, Nasca Cave, Crystal Caves, Mountainous Cave, Friend Safari"
+  },
+  {
+    "Dex": "074",
+    "Pokémon": "Goomy",
+    "Type": ["Dragon"],
+    "FIELD5": "Torren Game Corner",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "075",
+    "Pokémon": "Sliggoo",
+    "Type": ["Dragon"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "076",
+    "Pokémon": "Goodra",
+    "Type": ["Dragon"],
+    "FIELD5": "Nexa Border, Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "077",
+    "Pokémon": "Klefki",
+    "Type": ["Steel", "Fairy"],
+    "FIELD6": "Route 9, Friend Safari"
+  },
+  {
+    "Dex": "078",
+    "Pokémon": "Phantump",
+    "Type": ["Ghost", "Grass"],
+    "FIELD6": "Route 7, Friend Safari"
+  },
+  {
+    "Dex": "079",
+    "Pokémon": "Trevenant",
+    "Type": ["Ghost", "Grass"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "710",
+    "Pokémon": "Pumpkaboo",
+    "Type": ["Ghost", "Grass"],
+    "FIELD6": "Route 7, Friend Safari"
+  },
+  {
+    "Dex": "711",
+    "Pokémon": "Gourgeist",
+    "Type": ["Ghost", "Grass"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "712",
+    "Pokémon": "Bergmite",
+    "Type": ["Ice"],
+    "FIELD5": "Friend Safari",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "713",
+    "Pokémon": "Avalugg",
+    "Type": ["Ice"],
+    "FIELD5": "Deyraan Cave, Victory Road",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "714",
+    "Pokémon": "Noibat",
+    "Type": ["Flying", "Dragon"],
+    "FIELD6": "Friend Safari"
+  },
+  {
+    "Dex": "715",
+    "Pokémon": "Noivern",
+    "Type": ["Flying", "Dragon"],
+    "FIELD6": "Mysterious Hideaway, Route 15"
+  },
+  {
+    "Dex": "716",
+    "Pokémon": "Xerneas",
+    "Type": ["Fairy"],
+    "FIELD5": "Coatlicue Gardens",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "717",
+    "Pokémon": "Yveltal",
+    "Type": ["Dark", "Flying"],
+    "FIELD6": "Thanatos Cliffs"
+  },
+  {
+    "Dex": "718",
+    "Pokémon": "Zygarde",
+    "Type": ["Dragon", "Ground"],
+    "FIELD6": "Dragon Ruins, Void Gauntlet"
+  },
+  {
+    "Dex": "719",
+    "Pokémon": "Diancie",
+    "Type": ["Rock", "Fairy"],
+    "FIELD6": "Crystal Caves"
+  },
+  {
+    "Dex": "720",
+    "Pokémon": "Hoopa",
+    "Type": ["Psychic", "Ghost"],
+    "FIELD6": "Nightmare Badlands"
+  },
+  {
+    "Dex": "721",
+    "Pokémon": "Volcanion",
+    "Type": ["Fire", "Water"],
+    "FIELD6": "Infernal Dungeon or Cave of Steam"
+  },
+  {
+    "Dex": "722",
+    "Pokémon": "MISSINGNO",
+    "Type": ["Flying", "Normal"],
+    "FIELD6": "NO DATA"
+  },
+  {
+    "Dex": "727",
+    "Pokémon": "Delta Bulbasaur",
+    "Type": ["Fairy", "Psychic"],
+    "FIELD6": "Starter Pokémon, Telnor Town, Erebus City"
+  },
+  {
+    "Dex": "728",
+    "Pokémon": "Delta Ivysaur",
+    "Type": ["Fairy", "Psychic"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "729",
+    "Pokémon": "Delta Venusaur",
+    "Type": ["Fairy", "Psychic"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "730",
+    "Pokémon": "Delta Charmander",
+    "Type": ["Ghost", "Dragon"],
+    "FIELD6": "Starter Pokémon, Telnor Town, Erebus City"
+  },
+  {
+    "Dex": "731",
+    "Pokémon": "Delta Charmeleon",
+    "Type": ["Ghost", "Dragon"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "732",
+    "Pokémon": "Delta Charizard",
+    "Type": ["Ghost", "Dragon"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "733",
+    "Pokémon": "Delta Squirtle",
+    "Type": ["Dark", "Fighting"],
+    "FIELD6": "Starter Pokémon, Telnor Town, Erebus City"
+  },
+  {
+    "Dex": "734",
+    "Pokémon": "Delta Wartortle",
+    "Type": ["Dark", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "735",
+    "Pokémon": "Delta Blastoise",
+    "Type": ["Dark", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "736",
+    "Pokémon": "Delta Pawniard",
+    "Type": ["Flying", "Fighting"],
+    "FIELD6": "Power Farm"
+  },
+  {
+    "Dex": "737",
+    "Pokémon": "Delta Bisharp",
+    "Type": ["Flying", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "738",
+    "Pokémon": "Delta Ralts",
+    "Type": ["Electric", "Ice"],
+    "FIELD6": "Route 4"
+  },
+  {
+    "Dex": "739",
+    "Pokémon": "Delta Kirlia",
+    "Type": ["Electric", "Ice"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "740",
+    "Pokémon": "Delta Gardevoir",
+    "Type": ["Electric", "Ice"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "741",
+    "Pokémon": "Delta Gallade",
+    "Type": ["Electric", "Ice"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "742",
+    "Pokémon": "Delta Sunkern",
+    "Type": ["Fire", "Poison"],
+    "FIELD6": "Route 4"
+  },
+  {
+    "Dex": "743",
+    "Pokémon": "Delta Sunflora",
+    "Type": ["Fire", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "744",
+    "Pokémon": "Delta Bergmite",
+    "Type": ["Rock"],
+    "FIELD5": "Dragon Ruins",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "745",
+    "Pokémon": "Delta Avalugg",
+    "Type": ["Dragon", "Rock"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "746",
+    "Pokémon": "Delta Scyther",
+    "Type": ["Ice", "Fighting"],
+    "FIELD6": "Route 3"
+  },
+  {
+    "Dex": "747",
+    "Pokémon": "Delta Scizor",
+    "Type": ["Ice", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "748",
+    "Pokémon": "Delta Scraggy",
+    "Type": ["Grass"],
+    "FIELD5": "Murk Forest",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "749",
+    "Pokémon": "Delta Scrafty",
+    "Type": ["Grass"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "750",
+    "Pokémon": "Delta Combee",
+    "Type": ["Steel", "Fire"],
+    "FIELD6": "Route 9"
+  },
+  {
+    "Dex": "751",
+    "Pokémon": "Delta Vespiquen",
+    "Type": ["Steel", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "752",
+    "Pokémon": "Delta Koffing",
+    "Type": ["Electric", "Flying"],
+    "FIELD6": "Miara Town"
+  },
+  {
+    "Dex": "753",
+    "Pokémon": "Delta Weezing",
+    "Type": ["Electric", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "754",
+    "Pokémon": "Delta Purrloin",
+    "Type": ["Ghost", "Fairy"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "755",
+    "Pokémon": "Delta Liepard",
+    "Type": ["Ghost", "Fairy"],
+    "FIELD6": "Selene City"
+  },
+  {
+    "Dex": "756",
+    "Pokémon": "Delta Phantump",
+    "Type": ["Fairy"],
+    "FIELD5": "Mount Rose",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "757",
+    "Pokémon": "Delta Trevenant",
+    "Type": ["Fairy", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "758",
+    "Pokémon": "Delta Snorunt",
+    "Type": ["Fire"],
+    "FIELD5": "Fiery Caverns",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "759",
+    "Pokémon": "Delta Glalie",
+    "Type": ["Fire", "Rock"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "760",
+    "Pokémon": "Delta Froslass",
+    "Type": ["Fire"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "761",
+    "Pokémon": "Delta Shinx",
+    "Type": ["Steel", "Poison"],
+    "FIELD6": "Murk Forest"
+  },
+  {
+    "Dex": "762",
+    "Pokémon": "Delta Luxio",
+    "Type": ["Steel", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "763",
+    "Pokémon": "Delta Luxray",
+    "Type": ["Steel", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "764",
+    "Pokémon": "Delta Noibat",
+    "Type": ["Grass", "Steel"],
+    "FIELD6": "Ancient Tower"
+  },
+  {
+    "Dex": "765",
+    "Pokémon": "Delta Noivern",
+    "Type": ["Grass", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "766",
+    "Pokémon": "Delta Budew",
+    "Type": ["Dark", "Fairy"],
+    "FIELD6": "Utira Library"
+  },
+  {
+    "Dex": "767",
+    "Pokémon": "Delta Roselia",
+    "Type": ["Dark", "Fairy"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "768",
+    "Pokémon": "Delta Roserade",
+    "Type": ["Dark", "Fairy"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "769",
+    "Pokémon": "Delta Drifloon",
+    "Type": ["Fire", "Flying"],
+    "FIELD6": "Soaring"
+  },
+  {
+    "Dex": "770",
+    "Pokémon": "Delta Drifblim",
+    "Type": ["Fire", "Flying"],
+    "FIELD6": "Evolve Only"
+  },
+  {
+    "Dex": "771",
+    "Pokémon": "Delta Grimer",
+    "Type": ["Ground"],
+    "FIELD5": "Broadcast Tower",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "772",
+    "Pokémon": "Delta Muk",
+    "Type": ["Ground"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "773",
+    "Pokémon": "Delta Wooper",
+    "Type": ["Grass", "Fire"],
+    "FIELD6": "Vipik City (Tree Stump)"
+  },
+  {
+    "Dex": "774",
+    "Pokémon": "Delta Quagsire",
+    "Type": ["Grass", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "775",
+    "Pokémon": "Delta Munchlax",
+    "Type": ["Grass"],
+    "FIELD5": "Route 8",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "776",
+    "Pokémon": "Delta Snorlax",
+    "Type": ["Grass"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "777",
+    "Pokémon": "Delta Misdreavus",
+    "Type": ["Ice", "Fairy"],
+    "FIELD6": "Deyraan Town"
+  },
+  {
+    "Dex": "778",
+    "Pokémon": "Delta Mismagius",
+    "Type": ["Ice", "Fairy"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "779",
+    "Pokémon": "Delta Cyndaquil",
+    "Type": ["Electric"],
+    "FIELD5": "Satellite Corps",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "780",
+    "Pokémon": "Delta Quilava",
+    "Type": ["Electric", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "781",
+    "Pokémon": "Delta Typhlosion",
+    "Type": ["Electric", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "782",
+    "Pokémon": "Delta Treecko",
+    "Type": ["Normal", "Fighting"],
+    "FIELD6": "Holon Grasslands"
+  },
+  {
+    "Dex": "783",
+    "Pokémon": "Delta Grovyle",
+    "Type": ["Normal", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "784",
+    "Pokémon": "Delta Sceptile",
+    "Type": ["Dragon", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "785",
+    "Pokémon": "Delta Torchic",
+    "Type": ["Psychic"],
+    "FIELD5": "Holon Pyramid",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "786",
+    "Pokémon": "Delta Combusken",
+    "Type": ["Psychic"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "787",
+    "Pokémon": "Delta Blaziken",
+    "Type": ["Psychic", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "788",
+    "Pokémon": "Delta Turtwig",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Holon Lake"
+  },
+  {
+    "Dex": "789",
+    "Pokémon": "Delta Grotle",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "790",
+    "Pokémon": "Delta Torterra",
+    "Type": ["Water", "Ground"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "791",
+    "Pokémon": "Delta Snivy",
+    "Type": ["Water"],
+    "FIELD5": "Holon Lake",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "792",
+    "Pokémon": "Delta Servine",
+    "Type": ["Water"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "793",
+    "Pokémon": "Delta Serperior",
+    "Type": ["Water", "Dragon"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "794",
+    "Pokémon": "Delta Froakie",
+    "Type": ["Grass"],
+    "FIELD5": "Holon Marsh",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "795",
+    "Pokémon": "Delta Frogadier",
+    "Type": ["Grass"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "796",
+    "Pokémon": "Delta Greninja",
+    "Type": ["Grass", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "797",
+    "Pokémon": "Delta Pidgey",
+    "Type": ["Dark", "Dragon"],
+    "FIELD6": "Samsara Cave"
+  },
+  {
+    "Dex": "798",
+    "Pokémon": "Delta Pidgeotto",
+    "Type": ["Dark", "Dragon"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "799",
+    "Pokémon": "Delta Pidgeot",
+    "Type": ["Dark", "Dragon"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "080",
+    "Pokémon": "Delta Diglett",
+    "Type": ["Ice", "Normal"],
+    "FIELD6": "Telnor Cave"
+  },
+  {
+    "Dex": "081",
+    "Pokémon": "Delta Dugtrio",
+    "Type": ["Ice", "Normal"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "082",
+    "Pokémon": "Delta Growlithe",
+    "Type": ["Normal", "Dragon"],
+    "FIELD6": "Narra Town"
+  },
+  {
+    "Dex": "083",
+    "Pokémon": "Delta Arcanine",
+    "Type": ["Normal", "Dragon"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "084",
+    "Pokémon": "Delta Geodude",
+    "Type": ["Psychic", "Rock"],
+    "FIELD6": "Ancient Ruins"
+  },
+  {
+    "Dex": "085",
+    "Pokémon": "Delta Graveler",
+    "Type": ["Psychic", "Rock"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "086",
+    "Pokémon": "Delta Golem",
+    "Type": ["Psychic", "Rock"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "087",
+    "Pokémon": "Delta Tentacool",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Holon Marsh"
+  },
+  {
+    "Dex": "088",
+    "Pokémon": "Delta Tentacruel",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "089",
+    "Pokémon": "Delta Doduo",
+    "Type": ["Psychic"],
+    "FIELD5": "Prion Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "810",
+    "Pokémon": "Delta Dodrio",
+    "Type": ["Psychic"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "811",
+    "Pokémon": "Delta Tangela",
+    "Type": ["Ground"],
+    "FIELD5": "Holon Desert",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "812",
+    "Pokémon": "Delta Tangrowth",
+    "Type": ["Ground", "Fighting"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "813",
+    "Pokémon": "Delta Ditto",
+    "Type": ["Water"],
+    "FIELD5": "Metchi Town",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "814",
+    "Pokémon": "Delta Kabuto",
+    "Type": ["Bug", "Dark"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "815",
+    "Pokémon": "Delta Kabutops",
+    "Type": ["Bug", "Dark"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "816",
+    "Pokémon": "Delta Dratini",
+    "Type": ["Water", "Electric"],
+    "FIELD6": "Holon Undercave"
+  },
+  {
+    "Dex": "817",
+    "Pokémon": "Delta Dragonair",
+    "Type": ["Water", "Electric"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "818",
+    "Pokémon": "Delta Dragonite",
+    "Type": ["Water", "Electric"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "819",
+    "Pokémon": "Delta Hoothoot",
+    "Type": ["Ice", "Flying"],
+    "FIELD6": "Holon Mountain"
+  },
+  {
+    "Dex": "820",
+    "Pokémon": "Delta Noctowl",
+    "Type": ["Ice", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "821",
+    "Pokémon": "Delta Chinchou",
+    "Type": ["Ghost", "Fire"],
+    "FIELD6": "Cortisol Road"
+  },
+  {
+    "Dex": "822",
+    "Pokémon": "Delta Lanturn",
+    "Type": ["Ghost", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "823",
+    "Pokémon": "Delta Pichu",
+    "Type": ["Flying", "Fairy"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "824",
+    "Pokémon": "Delta Pikachu",
+    "Type": ["Flying", "Fairy"],
+    "FIELD6": "Soaring"
+  },
+  {
+    "Dex": "825",
+    "Pokémon": "Delta Raichu",
+    "Type": ["Flying", "Fairy"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "826",
+    "Pokémon": "Delta Aipom",
+    "Type": ["Ghost", "Normal"],
+    "FIELD6": "Suntouched City"
+  },
+  {
+    "Dex": "827",
+    "Pokémon": "Delta Ambipom",
+    "Type": ["Ghost", "Normal"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "828",
+    "Pokémon": "Delta Yanma",
+    "Type": ["Grass", "Flying"],
+    "FIELD6": "Holon Marsh"
+  },
+  {
+    "Dex": "829",
+    "Pokémon": "Delta Yanmega",
+    "Type": ["Grass", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "830",
+    "Pokémon": "Delta Girafarig",
+    "Type": ["Steel", "Poison"],
+    "FIELD6": "Route 16"
+  },
+  {
+    "Dex": "831",
+    "Pokémon": "Delta Dunsparce",
+    "Type": ["Water", "Bug"],
+    "FIELD6": "Lush Island"
+  },
+  {
+    "Dex": "832",
+    "Pokémon": "Delta Shuckle",
+    "Type": ["Fighting", "Steel"],
+    "FIELD6": "Amphitrite City"
+  },
+  {
+    "Dex": "833",
+    "Pokémon": "Delta Remoraid",
+    "Type": ["Fire"],
+    "FIELD5": "Holon Volcano",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "834",
+    "Pokémon": "Delta Octillery",
+    "Type": ["Fire"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "835",
+    "Pokémon": "Delta Elekid",
+    "Type": ["Rock"],
+    "FIELD5": "Mountainous Cave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "836",
+    "Pokémon": "Delta Electabuzz",
+    "Type": ["Rock"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "837",
+    "Pokémon": "Delta Electivire",
+    "Type": ["Rock", "Dragon"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "838",
+    "Pokémon": "Delta Magby",
+    "Type": ["Water"],
+    "FIELD5": "Holon Undercave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "839",
+    "Pokémon": "Delta Magmar",
+    "Type": ["Water"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "840",
+    "Pokémon": "Delta Magmortar",
+    "Type": ["Water", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "841",
+    "Pokémon": "Delta Lotad",
+    "Type": ["Psychic", "Water"],
+    "FIELD6": "Helios City"
+  },
+  {
+    "Dex": "842",
+    "Pokémon": "Delta Lombre",
+    "Type": ["Psychic", "Water"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "843",
+    "Pokémon": "Delta Ludicolo",
+    "Type": ["Psychic", "Water"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "844",
+    "Pokémon": "Delta Seedot",
+    "Type": ["Electric"],
+    "FIELD5": "Holon Mountain",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "845",
+    "Pokémon": "Delta Nuzleaf",
+    "Type": ["Electric"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "846",
+    "Pokémon": "Delta Shiftry",
+    "Type": ["Electric"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "847",
+    "Pokémon": "Delta Sableye",
+    "Type": ["Fire", "Rock"],
+    "FIELD6": "Holon Volcano"
+  },
+  {
+    "Dex": "848",
+    "Pokémon": "Delta Mawile",
+    "Type": ["Grass", "Dark"],
+    "FIELD6": "Holon Grasslands"
+  },
+  {
+    "Dex": "849",
+    "Pokémon": "Delta Aron",
+    "Type": ["Fire", "Steel"],
+    "FIELD6": "Holon Volcano"
+  },
+  {
+    "Dex": "850",
+    "Pokémon": "Delta Lairon",
+    "Type": ["Fire", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "851",
+    "Pokémon": "Delta Aggron",
+    "Type": ["Fire", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "852",
+    "Pokémon": "Delta Meditite",
+    "Type": ["Fairy"],
+    "FIELD5": "Holon Mountain",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "853",
+    "Pokémon": "Delta Medicham",
+    "Type": ["Fairy", "Ground"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "854",
+    "Pokémon": "Delta Numel",
+    "Type": ["Poison"],
+    "FIELD5": "Settlement Oscar",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "855",
+    "Pokémon": "Delta Camerupt",
+    "Type": ["Poison"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "856",
+    "Pokémon": "Delta Plusle",
+    "Type": ["Fire", "Fairy"],
+    "FIELD6": "Battle Frontier"
+  },
+  {
+    "Dex": "857",
+    "Pokémon": "Delta Minun",
+    "Type": ["Ice", "Fairy"],
+    "FIELD6": "Battle Frontier"
+  },
+  {
+    "Dex": "858",
+    "Pokémon": "Delta Wailmer",
+    "Type": ["Ice", "Flying"],
+    "FIELD6": "Soaring"
+  },
+  {
+    "Dex": "859",
+    "Pokémon": "Delta Wailord",
+    "Type": ["Ice", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "860",
+    "Pokémon": "Delta Feebas",
+    "Type": ["Ghost"],
+    "FIELD5": "Settlement Juliet",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "861",
+    "Pokémon": "Delta Milotic",
+    "Type": ["Ghost"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "862",
+    "Pokémon": "Delta Clamperl",
+    "Type": ["Dragon"],
+    "FIELD5": "Whirl Islands",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "863",
+    "Pokémon": "Delta Huntail",
+    "Type": ["Dragon", "Dark"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "864",
+    "Pokémon": "Delta Gorebyss",
+    "Type": ["Dragon", "Fairy"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "865",
+    "Pokémon": "Delta Beldum (Spider)",
+    "Type": ["Ground", "Bug"],
+    "FIELD6": "Breeding only"
+  },
+  {
+    "Dex": "866",
+    "Pokémon": "Delta Metang (Spider)",
+    "Type": ["Ground", "Bug"],
+    "FIELD6": "Murk Forest"
+  },
+  {
+    "Dex": "867",
+    "Pokémon": "Delta Metagross (Spider)",
+    "Type": ["Ground", "Bug"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "868",
+    "Pokémon": "Delta Beldum (Ruin)",
+    "Type": ["Rock", "Grass"],
+    "FIELD6": "Settlement Foxtrot"
+  },
+  {
+    "Dex": "869",
+    "Pokémon": "Delta Metang (Ruin)",
+    "Type": ["Rock", "Grass"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "870",
+    "Pokémon": "Delta Metagross (Ruin)",
+    "Type": ["Rock", "Grass"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "871",
+    "Pokémon": "Delta Buneary",
+    "Type": ["Fighting"],
+    "FIELD5": "Holon Desert",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "872",
+    "Pokémon": "Delta Lopunny",
+    "Type": ["Fighting"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "873",
+    "Pokémon": "Delta Riolu",
+    "Type": ["Dark"],
+    "FIELD5": "Holon Pyramid",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "874",
+    "Pokémon": "Delta Lucario",
+    "Type": ["Dark", "Ground"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "875",
+    "Pokémon": "Delta Croagunk",
+    "Type": ["Fire"],
+    "FIELD5": "Holon Jungle",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "876",
+    "Pokémon": "Delta Toxicroak",
+    "Type": ["Fire"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "877",
+    "Pokémon": "Delta Venipede",
+    "Type": ["Rock", "Fire"],
+    "FIELD6": "Holon Volcano"
+  },
+  {
+    "Dex": "878",
+    "Pokémon": "Delta Whirlipede",
+    "Type": ["Rock", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "879",
+    "Pokémon": "Delta Scolipede",
+    "Type": ["Rock", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "880",
+    "Pokémon": "Delta Petilil (Water)",
+    "Type": ["Water", "Fire"],
+    "FIELD6": "Victory Road"
+  },
+  {
+    "Dex": "881",
+    "Pokémon": "Delta Lilligant (Water)",
+    "Type": ["Water", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "882",
+    "Pokémon": "Delta Petilil (Fairy)",
+    "Type": ["Fairy", "Flying"],
+    "FIELD6": "Holon Grasslands"
+  },
+  {
+    "Dex": "883",
+    "Pokémon": "Delta Lilligant (Fairy)",
+    "Type": ["Fairy", "Flying"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "884",
+    "Pokémon": "Delta Solosis",
+    "Type": ["Ghost", "Rock"],
+    "FIELD6": "Broadcast Tower"
+  },
+  {
+    "Dex": "885",
+    "Pokémon": "Delta Duosion",
+    "Type": ["Ghost", "Rock"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "886",
+    "Pokémon": "Delta Reuniclus",
+    "Type": ["Ghost", "Rock"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "887",
+    "Pokémon": "Delta Darumaka",
+    "Type": ["Dark", "Ghost"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "888",
+    "Pokémon": "Delta Darmanitan",
+    "Type": ["Dark", "Ghost"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "889",
+    "Pokémon": "Delta Maractus",
+    "Type": ["Steel"],
+    "FIELD5": "Settlement Alfa",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "890",
+    "Pokémon": "Delta Dwebble (Berry)",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "891",
+    "Pokémon": "Delta Crustle (Berry)",
+    "Type": ["Grass", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "892",
+    "Pokémon": "Delta Dwebble (Cake)",
+    "Type": ["Fairy", "Normal"],
+    "FIELD6": "Route 1"
+  },
+  {
+    "Dex": "893",
+    "Pokémon": "Delta Crustle (Cake)",
+    "Type": ["Fairy", "Normal"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "894",
+    "Pokémon": "Delta Yamask",
+    "Type": ["Steel", "Poison"],
+    "FIELD6": "Cerebrum Town"
+  },
+  {
+    "Dex": "895",
+    "Pokémon": "Delta Cofagrigus",
+    "Type": ["Steel", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "896",
+    "Pokémon": "Delta Emolga",
+    "Type": ["Fire", "Dark"],
+    "FIELD6": "Roggan Town"
+  },
+  {
+    "Dex": "897",
+    "Pokémon": "Delta Karrablast",
+    "Type": ["Fairy"],
+    "FIELD5": "Holon Grasslands",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "898",
+    "Pokémon": "Delta Escavalier",
+    "Type": ["Fairy"],
+    "FIELD5": "Evolve Only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "899",
+    "Pokémon": "Delta Foongus",
+    "Type": ["Ghost", "Dark"],
+    "FIELD6": "Holon Jungle"
+  },
+  {
+    "Dex": "090",
+    "Pokémon": "Delta Amoonguss",
+    "Type": ["Ghost", "Dark"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "091",
+    "Pokémon": "Delta Litwick",
+    "Type": ["Fairy", "Fire"],
+    "FIELD6": "Sonata Hills"
+  },
+  {
+    "Dex": "092",
+    "Pokémon": "Delta Lampent",
+    "Type": ["Fairy", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "093",
+    "Pokémon": "Delta Chandelure",
+    "Type": ["Fairy", "Fire"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "094",
+    "Pokémon": "Delta Axew",
+    "Type": ["Water"],
+    "FIELD5": "Trade Outpost",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "095",
+    "Pokémon": "Delta Fraxure",
+    "Type": ["Water"],
+    "FIELD5": "Evolve only",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "096",
+    "Pokémon": "Delta Haxorus",
+    "Type": ["Water", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "097",
+    "Pokémon": "Delta Golett",
+    "Type": ["Fighting", "Steel"],
+    "FIELD6": "Battle Frontier"
+  },
+  {
+    "Dex": "098",
+    "Pokémon": "Delta Golurk",
+    "Type": ["Fighting", "Steel"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "099",
+    "Pokémon": "Delta Heatmor",
+    "Type": ["Steel", "Poison"],
+    "FIELD6": "Helios Sewers"
+  },
+  {
+    "Dex": "910",
+    "Pokémon": "Delta Deino",
+    "Type": ["Ground", "Poison"],
+    "FIELD6": "Slither Forest"
+  },
+  {
+    "Dex": "911",
+    "Pokémon": "Delta Zweilous",
+    "Type": ["Ground", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "912",
+    "Pokémon": "Delta Hydreigon",
+    "Type": ["Ground", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "913",
+    "Pokémon": "Delta Larvesta",
+    "Type": ["Dark", "Poison"],
+    "FIELD6": "Perfection Laboratory"
+  },
+  {
+    "Dex": "914",
+    "Pokémon": "Delta Volcarona",
+    "Type": ["Dark", "Poison"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "915",
+    "Pokémon": "Delta Amaura",
+    "Type": ["Grass", "Water"],
+    "FIELD6": "Lost Pond"
+  },
+  {
+    "Dex": "916",
+    "Pokémon": "Delta Aurorus",
+    "Type": ["Grass", "Water"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "917",
+    "Pokémon": "Delta Goomy",
+    "Type": ["Ground", "Water"],
+    "FIELD6": "Holon Marsh"
+  },
+  {
+    "Dex": "918",
+    "Pokémon": "Delta Sliggoo",
+    "Type": ["Ground", "Water"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "919",
+    "Pokémon": "Delta Goodra",
+    "Type": ["Ground", "Water"],
+    "FIELD6": "Evolve only"
+  },
+  {
+    "Dex": "920",
+    "Pokémon": "Delta Regirock",
+    "Type": ["Ground"],
+    "FIELD5": "Holon Desert",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "921",
+    "Pokémon": "Delta Regice",
+    "Type": ["Water"],
+    "FIELD5": "Holon Undercave",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "922",
+    "Pokémon": "Delta Registeel",
+    "Type": ["Fire"],
+    "FIELD5": "Holon Volcano",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "923",
+    "Pokémon": "Delta Meloetta",
+    "Type": ["Dark", "Fairy"],
+    "FIELD6": "Mimry Gardens"
+  },
+  {
+    "Dex": "924",
+    "Pokémon": "Delta Hoopa",
+    "Type": ["Flying"],
+    "FIELD5": "Cloud Bottle",
+    "FIELD6": ""
+  },
+  {
+    "Dex": "925",
+    "Pokémon": "UFI",
+    "Type": ["Psychic", "Electric"],
+    "FIELD6": "Oort Cloud Object"
+  }
+]

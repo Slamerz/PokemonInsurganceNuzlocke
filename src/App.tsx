@@ -1,23 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+// @ts-ignore
+import Spritesheet from 'react-responsive-spritesheet';
+import Img from './001.png'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Spritesheet
+            image={Img}
+            widthFrame={64}
+            heightFrame={64}
+            steps={16}
+            fps={3}
+            loop={true}/>
+
       </header>
     </div>
   );
