@@ -1,24 +1,18 @@
 import React from 'react';
 import './App.css';
-// @ts-ignore
-import Spritesheet from 'react-responsive-spritesheet';
-import Img from './001.png'
+import Widget from "./Component/Widget";
+import {
+    BrowserRouter as Router,
+    Switch,
+    Route,
+} from "react-router-dom";
+import Form from "./Component/Form";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <Spritesheet
-            image={Img}
-            widthFrame={64}
-            heightFrame={64}
-            steps={16}
-            fps={3}
-            loop={true}/>
-
-      </header>
-    </div>
-  );
+export function App() {
+    return (<Router>
+        <Switch>
+            <Route path={'/'} exact={true} component={Form}/>
+            <Route path={'/widget'} component={Widget}/>
+        </Switch>
+    </Router>)
 }
-
-export default App;

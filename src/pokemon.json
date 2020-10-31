@@ -1,5 +1,9 @@
 [
   {
+    "Dex": "",
+    "Pokémon": ""
+  },
+  {
     "Dex": "001",
     "Pokémon": "Bulbasaur",
     "Type": ["Grass", "Poison"],
