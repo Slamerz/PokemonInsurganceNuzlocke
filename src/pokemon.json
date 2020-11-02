@@ -649,68 +649,68 @@
     "FIELD6": ""
   },
   {
-    "Dex": "010",
+    "Dex": "100",
     "Pokémon": "Voltorb",
     "Type": ["Electric"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "011",
+    "Dex": "101",
     "Pokémon": "Electrode",
     "Type": ["Electric"],
     "FIELD5": "Victory Road",
     "FIELD6": ""
   },
   {
-    "Dex": "012",
+    "Dex": "102",
     "Pokémon": "Exeggcute",
     "Type": ["Grass", "Psychic"],
     "FIELD6": "Midna Garden, Friend Safari"
   },
   {
-    "Dex": "013",
+    "Dex": "103",
     "Pokémon": "Exeggutor",
     "Type": ["Grass", "Psychic"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "014",
+    "Dex": "104",
     "Pokémon": "Cubone",
     "Type": ["Ground"],
     "FIELD5": "Telnor Cave, Void Gauntlet, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "015",
+    "Dex": "105",
     "Pokémon": "Marowak",
     "Type": ["Ground"],
     "FIELD5": "Samsara Cave, Rezzai Cavern, Cave of Steam, Safari Zone, Holon Desert, Holon Undercave",
     "FIELD6": ""
   },
   {
-    "Dex": "016",
+    "Dex": "106",
     "Pokémon": "Hitmonlee",
     "Type": ["Fighting"],
     "FIELD5": "Koril Cave, Route 12",
     "FIELD6": ""
   },
   {
-    "Dex": "017",
+    "Dex": "107",
     "Pokémon": "Hitmonchan",
     "Type": ["Fighting"],
     "FIELD5": "Koril Cave, Route 12",
     "FIELD6": ""
   },
   {
-    "Dex": "018",
+    "Dex": "108",
     "Pokémon": "Lickitung",
     "Type": ["Normal"],
     "FIELD5": "Route 16, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "019",
+    "Dex": "109",
     "Pokémon": "Koffing",
     "Type": ["Poison"],
     "FIELD5": "Helios Sewers, Void Gauntlet, Friend Safari",
@@ -1307,66 +1307,66 @@
     "FIELD6": "Crystal Caves"
   },
   {
-    "Dex": "020",
+    "Dex": "200",
     "Pokémon": "Misdreavus",
     "Type": ["Ghost"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "021",
+    "Dex": "201",
     "Pokémon": "Unown",
     "Type": ["Psychic"],
     "FIELD5": "Holon Pyramid, Gaea Core, Alpha Temple, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "022",
+    "Dex": "202",
     "Pokémon": "Wobbuffet",
     "Type": ["Psychic"],
     "FIELD5": "Evolve only",
     "FIELD6": ""
   },
   {
-    "Dex": "023",
+    "Dex": "203",
     "Pokémon": "Girafarig",
     "Type": ["Normal", "Psychic"],
     "FIELD6": "Safari Zone, Misty Way, Friend Safari"
   },
   {
-    "Dex": "024",
+    "Dex": "204",
     "Pokémon": "Pineco",
     "Type": ["Bug"],
     "FIELD5": "Void Gauntlet, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "025",
+    "Dex": "205",
     "Pokémon": "Forretress",
     "Type": ["Bug", "Steel"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "026",
+    "Dex": "206",
     "Pokémon": "Dunsparce",
     "Type": ["Normal"],
     "FIELD5": "Crossroads, Mount Rose, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "027",
+    "Dex": "207",
     "Pokémon": "Gligar",
     "Type": ["Ground", "Flying"],
     "FIELD6": "Friend Safari"
   },
   {
-    "Dex": "028",
+    "Dex": "208",
     "Pokémon": "Steelix",
     "Type": ["Steel", "Ground"],
     "FIELD6": "Mount Rose (int.), Void Gauntlet"
   },
   {
-    "Dex": "029",
+    "Dex": "209",
     "Pokémon": "Snubbull",
     "Type": ["Fairy"],
     "FIELD5": "Friend Safari",
@@ -1956,63 +1956,63 @@
     "FIELD6": ""
   },
   {
-    "Dex": "030",
+    "Dex": "300",
     "Pokémon": "Skitty",
     "Type": ["Normal"],
     "FIELD5": "Route 7, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "031",
+    "Dex": "301",
     "Pokémon": "Delcatty",
     "Type": ["Normal"],
     "FIELD5": "Evolve only",
     "FIELD6": ""
   },
   {
-    "Dex": "032",
+    "Dex": "302",
     "Pokémon": "Sableye",
     "Type": ["Dark", "Ghost"],
     "FIELD6": "Cyan Cavern, Murk Forest, Crystal Caves, Mount Rose (int.), Deep Mantle, Friend Safari"
   },
   {
-    "Dex": "033",
+    "Dex": "303",
     "Pokémon": "Mawile",
     "Type": ["Steel", "Fairy"],
     "FIELD6": "Ancient Tower, Holon Grasslands, Friend Safari"
   },
   {
-    "Dex": "034",
+    "Dex": "304",
     "Pokémon": "Aron",
     "Type": ["Steel", "Rock"],
     "FIELD6": "Breeding only"
   },
   {
-    "Dex": "035",
+    "Dex": "305",
     "Pokémon": "Lairon",
     "Type": ["Steel", "Rock"],
     "FIELD6": "Whirl Islands, Friend Safari, Void Gauntlet"
   },
   {
-    "Dex": "036",
+    "Dex": "306",
     "Pokémon": "Aggron",
     "Type": ["Steel", "Rock"],
     "FIELD6": "Mount Rose (int.), Victory Road, Mountainous Cave, Holon Volcano"
   },
   {
-    "Dex": "037",
+    "Dex": "307",
     "Pokémon": "Meditite",
     "Type": ["Fighting", "Psychic"],
     "FIELD6": "Friend Safari"
   },
   {
-    "Dex": "038",
+    "Dex": "308",
     "Pokémon": "Medicham",
     "Type": ["Fighting", "Psychic"],
     "FIELD6": "Holon Mountain"
   },
   {
-    "Dex": "039",
+    "Dex": "309",
     "Pokémon": "Electrike",
     "Type": ["Electric"],
     "FIELD5": "Friend Safari, Crossroads",
@@ -2608,67 +2608,67 @@
     "FIELD6": ""
   },
   {
-    "Dex": "040",
+    "Dex": "400",
     "Pokémon": "Bibarel",
     "Type": ["Normal", "Water"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "041",
+    "Dex": "401",
     "Pokémon": "Kricketot",
     "Type": ["Bug"],
     "FIELD5": "Void Gauntlet",
     "FIELD6": ""
   },
   {
-    "Dex": "042",
+    "Dex": "402",
     "Pokémon": "Kricketune",
     "Type": ["Bug"],
     "FIELD5": "Evolve only",
     "FIELD6": ""
   },
   {
-    "Dex": "043",
+    "Dex": "403",
     "Pokémon": "Shinx",
     "Type": ["Electric"],
     "FIELD5": "Breeding only",
     "FIELD6": ""
   },
   {
-    "Dex": "044",
+    "Dex": "404",
     "Pokémon": "Luxio",
     "Type": ["Electric"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "045",
+    "Dex": "405",
     "Pokémon": "Luxray",
     "Type": ["Electric"],
     "FIELD5": "Route 5, Route 17",
     "FIELD6": ""
   },
   {
-    "Dex": "046",
+    "Dex": "406",
     "Pokémon": "Budew",
     "Type": ["Grass", "Poison"],
     "FIELD6": "Breeding only"
   },
   {
-    "Dex": "047",
+    "Dex": "407",
     "Pokémon": "Roserade",
     "Type": ["Grass", "Poison"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "048",
+    "Dex": "408",
     "Pokémon": "Cranidos",
     "Type": ["Rock"],
     "FIELD5": "Skull Fossil, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "049",
+    "Dex": "409",
     "Pokémon": "Rampardos",
     "Type": ["Rock"],
     "FIELD5": "Nasca Town, Nasca Cave, Narra Border",
@@ -3260,69 +3260,69 @@
     "FIELD6": "Friend Safari"
   },
   {
-    "Dex": "050",
+    "Dex": "500",
     "Pokémon": "Emboar",
     "Type": ["Fire", "Fighting"],
     "FIELD6": "Rose Crater"
   },
   {
-    "Dex": "051",
+    "Dex": "501",
     "Pokémon": "Oshawott",
     "Type": ["Water"],
     "FIELD5": "Route 1",
     "FIELD6": ""
   },
   {
-    "Dex": "052",
+    "Dex": "502",
     "Pokémon": "Dewott",
     "Type": ["Water"],
     "FIELD5": "Route 14, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "053",
+    "Dex": "503",
     "Pokémon": "Samurott",
     "Type": ["Water"],
     "FIELD5": "Evolve only",
     "FIELD6": ""
   },
   {
-    "Dex": "054",
+    "Dex": "504",
     "Pokémon": "Patrat",
     "Type": ["Normal"],
     "FIELD5": "Shade Forest, Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "055",
+    "Dex": "505",
     "Pokémon": "Watchog",
     "Type": ["Normal"],
     "FIELD5": "Evolve only",
     "FIELD6": ""
   },
   {
-    "Dex": "056",
+    "Dex": "506",
     "Pokémon": "Lillipup",
     "Type": ["Normal"],
     "FIELD5": "Breeding only",
     "FIELD6": ""
   },
   {
-    "Dex": "057",
+    "Dex": "507",
     "Pokémon": "Herdier",
     "Type": ["Normal"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "058",
+    "Dex": "508",
     "Pokémon": "Stoutland",
     "Type": ["Normal"],
     "FIELD5": "Route 7, Route 12",
     "FIELD6": ""
   },
   {
-    "Dex": "059",
+    "Dex": "509",
     "Pokémon": "Purrloin",
     "Type": ["Dark"],
     "FIELD5": "Dark Cave, Friend Safari",
@@ -3917,68 +3917,68 @@
     "FIELD6": ""
   },
   {
-    "Dex": "060",
+    "Dex": "600",
     "Pokémon": "Klang",
     "Type": ["Steel"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "061",
+    "Dex": "601",
     "Pokémon": "Klinklang",
     "Type": ["Steel"],
     "FIELD5": "Evolve only",
     "FIELD6": ""
   },
   {
-    "Dex": "062",
+    "Dex": "602",
     "Pokémon": "Tynamo",
     "Type": ["Electric"],
     "FIELD5": "Breeding only",
     "FIELD6": ""
   },
   {
-    "Dex": "063",
+    "Dex": "603",
     "Pokémon": "Eelektrik",
     "Type": ["Electric"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "064",
+    "Dex": "604",
     "Pokémon": "Eelektross",
     "Type": ["Electric"],
     "FIELD5": "Safari Zone, Holon Marsh, Gaea Core",
     "FIELD6": ""
   },
   {
-    "Dex": "065",
+    "Dex": "605",
     "Pokémon": "Elgyem",
     "Type": ["Psychic"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "066",
+    "Dex": "606",
     "Pokémon": "Beheeyem",
     "Type": ["Psychic"],
     "FIELD5": "Gaea Core",
     "FIELD6": ""
   },
   {
-    "Dex": "067",
+    "Dex": "607",
     "Pokémon": "Litwick",
     "Type": ["Ghost", "Fire"],
     "FIELD6": "Utira Library"
   },
   {
-    "Dex": "068",
+    "Dex": "608",
     "Pokémon": "Lampent",
     "Type": ["Ghost", "Fire"],
     "FIELD6": "Friend Safari"
   },
   {
-    "Dex": "069",
+    "Dex": "609",
     "Pokémon": "Chandelure",
     "Type": ["Ghost", "Fire"],
     "FIELD6": "Infernal Dungeon, Upper Mantle, Deep Mantle, Holon Pyramid"
@@ -4562,65 +4562,65 @@
     "FIELD6": "Narra Border, No Man's Land"
   },
   {
-    "Dex": "070",
+    "Dex": "700",
     "Pokémon": "Sylveon",
     "Type": ["Fairy"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "071",
+    "Dex": "701",
     "Pokémon": "Hawlucha",
     "Type": ["Fighting", "Flying"],
     "FIELD6": "Route 9, Victory Road, Friend Safari"
   },
   {
-    "Dex": "072",
+    "Dex": "702",
     "Pokémon": "Dedenne",
     "Type": ["Electric", "Fairy"],
     "FIELD6": "Route 14, Friend Safari"
   },
   {
-    "Dex": "073",
+    "Dex": "703",
     "Pokémon": "Carbink",
     "Type": ["Rock", "Fairy"],
     "FIELD6": "Midna Mine, Cyan Cavern, Cave of Steam, Whirl Islands, Nasca Town, Nasca Cave, Crystal Caves, Mountainous Cave, Friend Safari"
   },
   {
-    "Dex": "074",
+    "Dex": "704",
     "Pokémon": "Goomy",
     "Type": ["Dragon"],
     "FIELD5": "Torren Game Corner",
     "FIELD6": ""
   },
   {
-    "Dex": "075",
+    "Dex": "705",
     "Pokémon": "Sliggoo",
     "Type": ["Dragon"],
     "FIELD5": "Friend Safari",
     "FIELD6": ""
   },
   {
-    "Dex": "076",
+    "Dex": "706",
     "Pokémon": "Goodra",
     "Type": ["Dragon"],
     "FIELD5": "Nexa Border, Victory Road",
     "FIELD6": ""
   },
   {
-    "Dex": "077",
+    "Dex": "707",
     "Pokémon": "Klefki",
     "Type": ["Steel", "Fairy"],
     "FIELD6": "Route 9, Friend Safari"
   },
   {
-    "Dex": "078",
+    "Dex": "708",
     "Pokémon": "Phantump",
     "Type": ["Ghost", "Grass"],
     "FIELD6": "Route 7, Friend Safari"
   },
   {
-    "Dex": "079",
+    "Dex": "709",
     "Pokémon": "Trevenant",
     "Type": ["Ghost", "Grass"],
     "FIELD6": "Holon Jungle"
@@ -5162,61 +5162,61 @@
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "080",
+    "Dex": "800",
     "Pokémon": "Delta Diglett",
     "Type": ["Ice", "Normal"],
     "FIELD6": "Telnor Cave"
   },
   {
-    "Dex": "081",
+    "Dex": "801",
     "Pokémon": "Delta Dugtrio",
     "Type": ["Ice", "Normal"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "082",
+    "Dex": "802",
     "Pokémon": "Delta Growlithe",
     "Type": ["Normal", "Dragon"],
     "FIELD6": "Narra Town"
   },
   {
-    "Dex": "083",
+    "Dex": "803",
     "Pokémon": "Delta Arcanine",
     "Type": ["Normal", "Dragon"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "084",
+    "Dex": "804",
     "Pokémon": "Delta Geodude",
     "Type": ["Psychic", "Rock"],
     "FIELD6": "Ancient Ruins"
   },
   {
-    "Dex": "085",
+    "Dex": "805",
     "Pokémon": "Delta Graveler",
     "Type": ["Psychic", "Rock"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "086",
+    "Dex": "806",
     "Pokémon": "Delta Golem",
     "Type": ["Psychic", "Rock"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "087",
+    "Dex": "807",
     "Pokémon": "Delta Tentacool",
     "Type": ["Grass", "Poison"],
     "FIELD6": "Holon Marsh"
   },
   {
-    "Dex": "088",
+    "Dex": "808",
     "Pokémon": "Delta Tentacruel",
     "Type": ["Grass", "Poison"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "089",
+    "Dex": "809",
     "Pokémon": "Delta Doduo",
     "Type": ["Psychic"],
     "FIELD5": "Prion Town",
@@ -5789,63 +5789,63 @@
     "FIELD6": "Holon Jungle"
   },
   {
-    "Dex": "090",
+    "Dex": "900",
     "Pokémon": "Delta Amoonguss",
     "Type": ["Ghost", "Dark"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "091",
+    "Dex": "901",
     "Pokémon": "Delta Litwick",
     "Type": ["Fairy", "Fire"],
     "FIELD6": "Sonata Hills"
   },
   {
-    "Dex": "092",
+    "Dex": "902",
     "Pokémon": "Delta Lampent",
     "Type": ["Fairy", "Fire"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "093",
+    "Dex": "903",
     "Pokémon": "Delta Chandelure",
     "Type": ["Fairy", "Fire"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "094",
+    "Dex": "904",
     "Pokémon": "Delta Axew",
     "Type": ["Water"],
     "FIELD5": "Trade Outpost",
     "FIELD6": ""
   },
   {
-    "Dex": "095",
+    "Dex": "905",
     "Pokémon": "Delta Fraxure",
     "Type": ["Water"],
     "FIELD5": "Evolve only",
     "FIELD6": ""
   },
   {
-    "Dex": "096",
+    "Dex": "906",
     "Pokémon": "Delta Haxorus",
     "Type": ["Water", "Steel"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "097",
+    "Dex": "907",
     "Pokémon": "Delta Golett",
     "Type": ["Fighting", "Steel"],
     "FIELD6": "Battle Frontier"
   },
   {
-    "Dex": "098",
+    "Dex": "908",
     "Pokémon": "Delta Golurk",
     "Type": ["Fighting", "Steel"],
     "FIELD6": "Evolve only"
   },
   {
-    "Dex": "099",
+    "Dex": "909",
     "Pokémon": "Delta Heatmor",
     "Type": ["Steel", "Poison"],
     "FIELD6": "Helios Sewers"
